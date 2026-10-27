@@ -1,0 +1,107 @@
+{
+  "updated_at": "2026-10-27T02:00:00Z",
+  "articles": [
+    {
+      "title": "格芯在新加坡启用 AI 设施控制中心，整合工厂关键设备数据",
+      "summary": "GlobalFoundries 与 Siemens 合作，在新加坡推出设施控制中心，先整合当地五个专用控制中心，利用数据可视化和 AI 辅助设备预测性维护、排障和根因分析。",
+      "category": "设备监测",
+      "source": "GlobalFoundries",
+      "date": "2026-10-26T08:00:00Z",
+      "url": "https://gf.com/news-and-events/news/globalfoundries-launches-advanced-facilities-control-centre-in-singapore/",
+      "image": "assets/monitor.svg",
+      "image_alt": "设备监测类别备用主题插画，非新闻现场照片",
+      "opportunity": "可探索设施设备的跨系统数据连接、告警汇总与维修工单分析；但大型半导体工厂集成项目本身进入门槛较高。",
+      "analysis": {
+        "pain": "工厂设备数据分散，维修人员难以迅速定位根因",
+        "entry": "从已有设备记录、告警 CSV 和维修工单做数据整合与异常趋势看板",
+        "money": "按工厂收取初始实施费，再按月收取维护与报表订阅费",
+        "difficulty": "中：需理解现场数据结构、权限及系统集成"
+      }
+    },
+    {
+      "title": "施耐德电气携手 NVIDIA、HPE 推动工厂边缘 AI 智能体",
+      "summary": "三家公司宣布面向流程工业推进部署在现场的 AI 智能体，强调实时运营监控、工业网络安全、能源优化，以及数据主权与成本控制。",
+      "category": "工业 AI",
+      "source": "Industrial Cyber",
+      "date": "2026-10-26T05:00:00Z",
+      "url": "https://industrialcyber.co/news/schneider-electric-nvidia-hpe-introduce-edge-ai-agents-for-industrial-monitoring-cybersecurity-and-energy-optimization/",
+      "image": "assets/ai.svg",
+      "image_alt": "工业 AI类别备用主题插画，非新闻现场照片",
+      "opportunity": "围绕已有 SCADA/报警系统搭建知识检索和故障建议助手，可作为低硬件投入的验证方向；需考虑安全审查。",
+      "analysis": {
+        "pain": "工业现场希望使用 AI，但不能随意上传敏感生产数据",
+        "entry": "先做内部知识库和故障问答助手，采用客户认可的部署方式",
+        "money": "按项目实施费加持续运维费",
+        "difficulty": "中高：需要工业安全审核和真实场景评估"
+      }
+    },
+    {
+      "title": "工业软件公司 Cerexio 在新加坡展出 Agentic AI 制造业平台",
+      "summary": "Cerexio 于 10 月 21 日在 ITAP 2026 推出 Cerexio One 框架，展示将 AI 与工业数据、运营决策整合到制造企业工作流程的方案。",
+      "category": "数据与软件",
+      "source": "Cerexio",
+      "date": "2026-10-21T04:00:00Z",
+      "url": "https://cerexio.com/news/cerexio-one-itap-2026-success-story",
+      "image": "assets/data.svg",
+      "image_alt": "数据与软件类别备用主题插画，非新闻现场照片",
+      "opportunity": "大型平台竞争激烈，创业者更适合寻找某个行业的具体数据工作流，提供部署快、成果可量化的模块。",
+      "analysis": {
+        "pain": "中小工厂系统割裂，管理层缺少可信的统一运营指标",
+        "entry": "针对一类生产流程开发数据清洗与 Power BI 仪表板模板",
+        "money": "一次性部署费、数据连接维护费",
+        "difficulty": "低中：可从现有 Excel、ERP 导出数据开始"
+      }
+    },
+    {
+      "title": "低功耗类脑芯片正在探索连续设备状态监测",
+      "summary": "42 Technology 与 Innatera 展示用于泵、电机和风扇监测的类脑计算方案，尝试降低持续监控所需的功耗与成本；尚需关注实际部署效果。",
+      "category": "设备监测",
+      "source": "42 Technology",
+      "date": "2026-10-12T07:00:00Z",
+      "url": "https://42t.com/insights/neuromorphic-ai-for-always-on-condition-monitoring/",
+      "image": "assets/monitor.svg",
+      "image_alt": "设备监测类别备用主题插画，非新闻现场照片",
+      "opportunity": "优先验证客户是否愿为更少误报和更早发现故障付费，而不是直接自研传感器芯片。",
+      "analysis": {
+        "pain": "传统设备监测传感器和数据分析成本较高",
+        "entry": "不做芯片或传感器，从现成设备数据做轻量异常检测服务",
+        "money": "试点费、设备数量阶梯订阅费",
+        "difficulty": "中：须证明误报率、提前预警能力"
+      }
+    },
+    {
+      "title": "工业 AI 服务商开始强调从预警走向可验证的生产结果",
+      "summary": "Infinite Uptime 宣布与微软技术体系合作，强调将设备与产线数据转化为可执行建议，并让操作人员验证改进结果。",
+      "category": "创业信号",
+      "source": "Infinite Uptime",
+      "date": "2026-10-01T08:00:00Z",
+      "url": "https://www.infinite-uptime.com/news-media/",
+      "image": "assets/startup.svg",
+      "opportunity": "一个值得测试的产品概念是：告警 → 推荐措施 → 工单执行 → 效益复盘的闭环 SaaS。",
+      "analysis": {
+        "pain": "预警太多但缺乏可执行的维修建议",
+        "entry": "将历史报警、维修记录和操作手册关联，生成可追溯建议",
+        "money": "按站点或使用人数订阅，另收集成费",
+        "difficulty": "中：需要人工复核和责任边界"
+      },
+      "image_alt": "创业信号类别备用主题插画，非新闻现场照片"
+    },
+    {
+      "title": "思科工业 AI 报告：过程自动化与工业网络安全是重点投资领域",
+      "summary": "Cisco 2026 年工业 AI 报告列出受访企业的优先方向，其中过程自动化与效率提升、工业网络安全、供应链优化居前；其样本范围及问卷口径需阅读报告核实。",
+      "category": "能源与效率",
+      "source": "Cisco",
+      "date": "2026-02-01T00:00:00Z",
+      "url": "https://www.cisco.com/c/dam/en/us/solutions/networking/industrial-iot/2026-state-of-industrial-ai-report.pdf",
+      "image": "assets/energy.svg",
+      "opportunity": "使用报告筛选市场，但具体切入还应以企业访谈和可计量的 ROI 为依据。",
+      "analysis": {
+        "pain": "工厂能耗数据与工况数据分离，节能成果难量化",
+        "entry": "结合生产批次、产量和电耗做单位产出能耗分析",
+        "money": "节能诊断服务费、月度监测费",
+        "difficulty": "低中：从能源账单和生产报表验证"
+      },
+      "image_alt": "能源与效率类别备用主题插画，非新闻现场照片"
+    }
+  ]
+}
