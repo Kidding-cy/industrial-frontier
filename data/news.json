@@ -1,16 +1,84 @@
 {
-  "updated_at": "2026-10-27T03:23:26Z",
+  "updated_at": "2026-10-28T05:43:08Z",
   "articles": [
     {
-      "title": "Zenit Italia upgrades San Cesario plant for greater energy efficiency",
-      "summary": "Zenit Italia upgrades San Cesario plant for greater energy efficiency World Pumps",
-      "source": "World Pumps",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmN4Sl9qaDVlLWhraEVBaExINm1HeEZMR2VzSXJIOWw3a3dXcE44MHlpRm10NUVNQk1YSWtiV2NGUXBySW93djRaRnY4ZGU3ekk2eVF3SFpxMTFvcW1ZcmpDUF92c2U2dWJ4Q1M2V0V5bmxIU09ZZmRreWtMd3ZHUllueFI4ellhV2dMQkRpU0hyVnd6eUc5cFlkd29WX2Q1RUEwUFVCOTRYT3h6RUE?oc=5",
-      "category": "能源与效率",
-      "date": "2026-10-26T18:35:04+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "title": "Industrial AI in manufacturing: What changes now?",
+      "summary": "Industrial AI in manufacturing: What changes now? Siemens",
+      "source": "Siemens",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVDIyRkJ1ZlpMUFNWTDIybThDRW1IVEFRVjVGRmVZRl9oS2ZMczhwMC1PMnJ4WVBBRFM2X0MyV2ltYmRsU2F2MWRwR2hvWjRCbUpBc1pNbHViQ0RnQmZXTkswdlBZekxxRVZWM3otX1BGVXhXX1gydkczYTRWX2Z4Y2hIV244eUlOVnAtdGtrY2hJbXpnSU9HUkRn?oc=5",
+      "category": "工业 AI",
+      "date": "2026-10-28T01:38:25+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "“Robots to Ease Labor Shortages”: U.S. Manufacturing Automation Spreads to Shipbuilding and Defense, Putting Physical AI Commercialization to the Test",
+      "summary": "“Robots to Ease Labor Shortages”: U.S. Manufacturing Automation Spreads to Shipbuilding and Defense, Putting Physical AI Commercialization to the Test https://economy.ac/",
+      "source": "https://economy.ac/",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBocFpVUVVkUXRDQThtZDZuYWVGeTItbzVpdmd4Zm04VTBxUDVqOTM1NmRoVVJLSkRnNHRrODNaaTNTdnM3eXExdGRfRHJZRncta3J0QXh5SQ?oc=5",
+      "category": "机器人",
+      "date": "2026-10-27T22:00:15+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Wormsensing raises €9.5M Series A to turn its ultrasensitive sensors into an industry standard",
+      "summary": "Wormsensing raises €9.5M Series A to turn its ultrasensitive sensors into an industry standard Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3dTZ1BzSm9iQlNVbnZNYnd5OWJieU1hckJCMFdWdi1HVHJOMVdRemJLSE93ZV85eHVqc0NuT3JIaTBUeC1icVlFUXFHNWx2VzNfaWFYM25qdU9ORVZiMzV1dXUzS0I0TER1LTFERTdGRjlqNFZ6SFpWcDl2Nl82QXlTMjVpOHhvRm5yek9DSUpKMExRNEtuSG9LWHpfd2w5WVl3SUZSMVpBcHoyREhobkVUQU9iZWdFbk5HeTFYZFJ1UWs2d1E?oc=5",
+      "category": "设备监测",
+      "date": "2026-10-27T17:52:43+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Switchgear Monitoring System Market worth $3.80 billion by 2031",
+      "summary": "Switchgear Monitoring System Market worth $3.80 billion by 2031 MarketsandMarkets",
+      "source": "MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmVBTGhEcXdOc1hibEdyc3UwODRiT01pcE5QczJZUWFXNXgyRW1VUUFibkd0SmVhbmFwa1B4aEpaVGJxRWc4SGpveUpwenlaMEd4cEo0UlY0WnktaUJISkpDUWFZN3dGSUxmYjFKYmpSdDZQeUFXU0F4VzEwbjVZNzFPdWR5RUk?oc=5",
+      "category": "设备监测",
+      "date": "2026-10-27T17:06:03+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Chinese firm delivers 10,000 robotic arms as humanoids enter factories",
+      "summary": "Chinese firm delivers 10,000 robotic arms as humanoids enter factories Interesting Engineering",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFJpcW91UzNhOE9TR3ZENVNuN0NweW9uWGJSLUkyWEJwLWlrdnR3aUNTaVdUSkczOGlxdFBkRVVraFk1MFM2RkEtUjRScFRTZ1dLSE1ydmQzR1AzLVFUM19NQm1QNTB0OExmekJha19udDZhZUJNSldWcU5zQjRFMURqZEh5T0xqMy13US00Nmg?oc=5",
+      "category": "机器人",
+      "date": "2026-10-27T13:19:00+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -138,6 +206,23 @@
       }
     },
     {
+      "title": "What connected lighting can do for industrial facilities",
+      "summary": "What connected lighting can do for industrial facilities The Manufacturer",
+      "source": "The Manufacturer",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenZJckJWZ1ItMVdhUEs1aTBzR2F1NHdOaERBVnRWUnFsVFJQLWM5c0NOcTJGUlM5VE90NUk5emFxeGY5anRwdGhYeHpSOFRKc1NwWllKWUhDcDdianN0VGd5ZU1nR1pyckRMVVE2dlVTY2lXWnRLZm9hX3JWeFhXa29pa0VSZVc5VERfRmd4Q2dpZmttbUF1RTBfX0VreHFJSVE?oc=5",
+      "category": "能源与效率",
+      "date": "2026-10-26T07:00:00+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
       "title": "VIDEO | Robots Today: What Physical AI Looks Like on Factory Floors",
       "summary": "VIDEO | Robots Today: What Physical AI Looks Like on Factory Floors Assembly Magazine",
       "source": "Assembly Magazine",
@@ -189,23 +274,6 @@
       }
     },
     {
-      "title": "From robot arms to humanoids: 5 technologies transforming modern factories",
-      "summary": "From robot arms to humanoids: 5 technologies transforming modern factories WION",
-      "source": "WION",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzQ1cEVVNW00X2szTzJ3a1kwdlgzbjFwSll4VUZMdjVGaTNac1cwRjY2b3UyMXoyNjJiTW5UWWUyS0xEY2JKYlV2eHR5ekNlN3RUUDFGUlI5VVg3NlZMSzl0RUc0VUJjU1hET2Z5bGUtbEpBRzhRU1c3UklQU3B2NXpBeU9GWk8tdldOaV9ERmNSVEt0MThPVThZajFRWG1IeXNEZjRIemE1T2JOWXFBX1JaUUc3cm9ScGc?oc=5",
-      "category": "机器人",
-      "date": "2026-10-23T20:00:00+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
       "summary": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings Crunchbase News",
       "source": "Crunchbase News",
@@ -223,23 +291,6 @@
       }
     },
     {
-      "title": "Motor & Motor-Drive Sensors Market worth $5.47 billion by 2035 - Exclusive Report by MarketsandMarkets™",
-      "summary": "Motor & Motor-Drive Sensors Market worth $5.47 billion by 2035 - Exclusive Report by MarketsandMarkets™ Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTE5jMXRmV09PTE1uZjBvQ1o3enhUZ3R4c2g2QmdpeGpoamFYUndIWERvQ0xJbEtkOTVUQ1ZpQV9VNDVyclFXamFYb1JiMXpsd2s4QWQ0V3RMRU14N1RUY2NleFhadzVLZ2Y4U3AxaGx2clpYcllpWmkwZ3hyQUdZREJCQjFUQmd1REhacEJ0N0pNTmpCU1NJTw?oc=5",
-      "category": "设备监测",
-      "date": "2026-10-23T14:15:00+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "Micro Data Center for Real-Time AI in Smart Factories",
       "summary": "Micro Data Center for Real-Time AI in Smart Factories Kings Research",
       "source": "Kings Research",
@@ -249,74 +300,6 @@
       "image": "assets/robot.svg",
       "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
       "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Schneider, NVIDIA & HPE: Physical Edge AI For Factory Floors",
-      "summary": "Schneider, NVIDIA & HPE: Physical Edge AI For Factory Floors Manufacturing Digital",
-      "source": "Manufacturing Digital",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW5SUk1hRDU4d21TNWJkeWN4ZVVUN2FJTGFwLXhJV3dUcHdlXzRNNlhCemtUZUFEcGRiTjEtb0RCUEQ3NmNVRmdGeFhzN3NvZzdKNEo2ZEQ0TU4tRVJBMkdpTVo5MTAtT2FwaW9tQ3hCWmo1ZTc3UXZQQkdtQzRaMUF5UU91Nzk1LTloRWc5bzZZcmd4cXo2TzBn?oc=5",
-      "category": "能源与效率",
-      "date": "2026-10-23T13:15:50+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "NineTenths joins ISASecure to support industrial cybersecurity across energy, water and manufacturing",
-      "summary": "NineTenths joins ISASecure to support industrial cybersecurity across energy, water and manufacturing Industrial Cyber",
-      "source": "Industrial Cyber",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVhObEpiNVNNSnBlY2Z0bXZpYVRDOFE3dUo5LUtrM2xsblVLS1YzWkxPZE5fd05vQzJOY3VkNDBwcWo2dWY1VDJ6TFBWdHg0UC1sV3RqdjZfbVFWZFotTkM2ckxWU19nVmM3WVlqUDEtZXhHTEx0RnpLRkJuSjdjZzFnWENMTGVIRGE3WWxGdldIcDRqUVN0Qkt0MTVnUVdldnhSeEhHUlhNY2FYUmloSXEwYW44NVNXdFRpRWlKZHU0cHEtNkVaTWtJbnZMQQ?oc=5",
-      "category": "机器人",
-      "date": "2026-10-23T12:16:08+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement",
-      "summary": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement Crunchbase News",
-      "source": "Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjBHRlNQcXp6N0haWkE4bWttYnJyV1ZvSTNvZEhpMnh2N3N1bGNtdzY2RmlqSjltV1ZGSWY1LVIzbnFXa3d3dGxnZ2psQm9PX3Q1c3VXNm1STjdnWXdmX2J3X3N1ckFpcVNoWVRtd3VSWUoySkQ3X3BrMmswVmZZdGxTSXZzb3RUUV9MR01JTldnLWw3?oc=5",
-      "category": "创业信号",
-      "date": "2026-10-23T11:00:08+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Motor & Motor-Drive Sensors Market",
-      "summary": "Motor & Motor-Drive Sensors Market MarketsandMarkets",
-      "source": "MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFRKYWo1T0kxQ0gwak1pdnFoY21wdnJJOEhwQzAwTU1tbVdIdkdUbnlVdnlfSk9adWFvclBXYzkxa1dhMEFMTUY3cVliZXF4ck5JeDJxcTc0RTNBamJCcjNVMGUydFRDY0Y5OG11cWFRM2NJZGdjSW4yNVFrLWhkSHRmdm0yVmtYMWE1VVNwaHNLNXM1SENVSExDYw?oc=5",
-      "category": "设备监测",
-      "date": "2026-10-23T10:21:11+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -359,6 +342,40 @@
       }
     },
     {
+      "title": "Building Industrial AI for Connected and Consistent Frontline Work",
+      "summary": "Building Industrial AI for Connected and Consistent Frontline Work Emerj Artificial Intelligence Research",
+      "source": "Emerj Artificial Intelligence Research",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRER0X3dINmF3eUcyUFBkWVE3ejNDYVNoakVpRmNidXlLWk01N0ZnazNUd0V4MjlZTlhOS2lsbWlDeWtnX0l0dUp5a1ZjczFVT1pmOUR1Wm1YTGZGS1k2SVliLXVsTGpha2pJMW5zSzV5anZJZkhGUV92QVVjZDRpT1BwU0cwaGh6UnpJY1Nn?oc=5",
+      "category": "工业 AI",
+      "date": "2026-10-22T10:00:37+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Why Factories Are Letting Machines Report Their Own Health",
+      "summary": "Why Factories Are Letting Machines Report Their Own Health Technology Org",
+      "source": "Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlA5dkZpSzFBQnVhMGV4cC1SUWt1RU9WbDN2WG9NM1JoRGl0MzNtSUd4WmxGUEZGUzlKOXNuNTRhWkhlVlQ5MWg4TEh0VUVGTXNvRzJzeWxHTTE4MjBMZGt0dUJHc0xVMThJUW1rMElyRFAxNzFwTFB2eF92Y0xmbDVnbG9VUlRfSEFqakFUWk04ZHhISVdHdFlzYnlCdw?oc=5",
+      "category": "设备监测",
+      "date": "2026-10-22T09:34:55+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
       "title": "IT/OT Network Security: How Manufacturers Can Protect Production With Lean Teams",
       "summary": "IT/OT Network Security: How Manufacturers Can Protect Production With Lean Teams Automation World",
       "source": "Automation World",
@@ -385,23 +402,6 @@
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical AI at NVIDIA GTC Berlin 2026",
-      "summary": "Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical AI at NVIDIA GTC Berlin 2026 Morningstar",
-      "source": "Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFctY2ZBaEt3NEVjdE5JZ2UzeEwzTDA1OGVYR2NKYTVQb3J5blBEV2QxUGFfNnMtVWVDMWRhWmtBdlE2YnFoVTJOQkZZNlZQbGFVOU4zOFRZU0JHc1Iwci1oVEhjbTlVN19kUmY0WWZ3bG5oRHVPeGlQRzlXdnhRYWtuLUotUUZUb0RuOTFUa3VyRVF3UVBzaXRsdlRfSDZkNEZ5UXpwZENCVVQ3M3pWS2V3Mnlnd25nTDYtUHl6azZlRWxoczRQU1ZwMGpUNHhXZmhRN3Z3RWVVckNTUmQ1a3p4eXVqVjE1QWVWUFNEeHRHMVRmNGlZVWNiMnE?oc=5",
-      "category": "工业 AI",
-      "date": "2026-10-21T13:49:00+00:00",
-      "image": "assets/ai.svg",
-      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
