@@ -1,6 +1,108 @@
 {
-  "updated_at": "2026-10-30T05:50:04Z",
+  "updated_at": "2026-10-31T05:42:49Z",
   "articles": [
+    {
+      "title": "Why Automated Cells Are Pulling Inspection Onto the Shop Floor",
+      "summary": "Why Automated Cells Are Pulling Inspection Onto the Shop Floor Robotics & Automation News",
+      "source": "Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGdCYTh0UXZZVjNEcFRpSlRhS2FsbF9pMnc2U0tablVMMWpkcUt1VlRoVGw2S3ZGVlZRWjRYU1h3T2E2cVJzNTNMQnJXd19oUDFYZFo0S2I2MFEyUkRqbUoySDdudkw1UHVQX19GOE5QcU9NTkFrU25kel9jRTNraGRrcEthekNBWEkxbVVaOExOZUhNWUhpbmgzRHVPZDZxSFFSTF9lTmZUaEhfd1R1X1I0YkhfbHFVcDVv?oc=5",
+      "category": "机器人",
+      "date": "2026-10-30T23:55:20+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Hitachi maps where manufacturers are successfully deploying AI and where they're falling short so far",
+      "summary": "Hitachi maps where manufacturers are successfully deploying AI and where they're falling short so far Smart Industry",
+      "source": "Smart Industry",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZHk3anVVQXdSMWtnMjRIMXJMb3pnWmp4cFdJOWRwcXhkcnNHWmQ3YTM2ZEd4YTg3aXVHSmtraVVOYjNmOE52N1QzY1BZSUh5VGUyczRuRW9tSFNBMC1JdnZLSG40NzBJbHVnampTdVdCblFlSDJDOUgwTThUVVFYU2RkNmpORnhEM1hJczhvU3FrekZhRllEZXVZUzJvWHJVb0lPTVlnblVFSk1oN0FpckxNUTlDeVA3OVRJdk5hSko4akZES0xIUnFjVXJLUk05d1doVU5DVk1sZE1WeWc?oc=5",
+      "category": "工业 AI",
+      "date": "2026-10-30T19:03:22+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Schneider, NVIDIA & HPE Take Physical AI to Process Plants",
+      "summary": "Schneider, NVIDIA & HPE Take Physical AI to Process Plants Energy Digital Magazine",
+      "source": "Energy Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdktuOUlGdHRaclhHLTF5M0tYdVhiS3E2bFVVNTRmdjBpbGpPREJwQzRJNkdXeW5MREl3M2h4OE9mSjRqLUZVcEFITnJpYXZOTk1oVnVCb3FhNnJXcUxvelFBeDduVkEwTmI0UDhUMmV0clhnd3hUOVBCLS1IUWxRUFlHN21SWHNfMHdtOXFobw?oc=5",
+      "category": "能源与效率",
+      "date": "2026-10-30T13:15:41+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "AI, fuelled by advanced chips, set to power their manufacture: industry veteran",
+      "summary": "AI, fuelled by advanced chips, set to power their manufacture: industry veteran South China Morning Post",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWxIVW5zMHZDUWpNZ01lSXZyUmp4NW9IS3hWRzdjODdpZHBHVDA1YnI5SzM5VE5jYjJFZ2tTV3BTUk1JQmhzY09BekV0X1BzMW1mRjZmMFktNld5RFBBdWRCT2JfSllLckdwQWpRb2RWVklFaFpqcXhJNWtMNnp0RE5sN19sUVdXQ3RfVVhmamc5WW1zd3dDV2o0dmV3Y2JocTZxX21JWXFVZlMzN25fNm1sR0lsdWpQWk5hM0JLclBzYkRObVdGc2ZjUdIBywFBVV95cUxOUzdGb3VFYnlxQ3lnQVVPQ2VkdEhyWS12ZWFKdzUtR1I4TEZiam1Fczl3LWVoMXhlZ0tzcVFoRTdaUkowMzB1RW44d3BmaTJiNWVYeWl1R1RJb0RoMUhXVDhReTlTT3pReUlPUV9aRTJKSTlpSUxSZU5EYVl0THFwOFZZclEyeEVXWGtQeThLdHVBSjlibEcxYkgzQUVnbDJ0YkwxLW9UYVYxdnRBQXI4TlFiZDBpTHQ5Nm9IMnVTUlBkWkpuRjhLMjh4dw?oc=5",
+      "category": "工业 AI",
+      "date": "2026-10-30T12:59:39+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Hitachi Digital, Physical AI and Manufacturing",
+      "summary": "Hitachi Digital, Physical AI and Manufacturing Supply Chain Digital Magazine",
+      "source": "Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOak9nVEtFU3prQkdWYWlBN2RDdW0tbEpJOHhock01RTZUaEJGcmVySHRmZ0N4OGU1MGhJVGY1clNZX1dpc1dPNW9GVmx2NXpzMmtRWEp1bkpyV1ZVUUJPbkVCQnJTa3p0UTRaeFFLNkExVnJLMzN4NEhvbXJCN1V3bzJtTTVHc3lN?oc=5",
+      "category": "工业 AI",
+      "date": "2026-10-30T10:37:09+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "China vs. Global Industrial Skid System Manufacturers: Capabilities and Innovations",
+      "summary": "China vs. Global Industrial Skid System Manufacturers: Capabilities and Innovations The Courier-Journal",
+      "source": "The Courier-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMDZYMjU2WmZhRHhhY3VNc0ZiTE10RTMzWTVxdXBqUGFJN0dyZjJDbzZmeWYxdnNUbzVmZUtaOU93djBGUjRLOUFTemtDdmhKbXJwSkNqMXU0dVlVbGY5RkRKVHlRcmZ0V1hWNFExdU1tRGVmU2NDdThmRmQwcERLU1FxbW1xY2VIRUhrV1hXbWRmX3h4V2tPOFY5WVNqLV9Va1pyTFNlQzJyc0V2ckI1dWRJdHdUQThmMlFDS3BlT29VdnNlVmh4ODlfRGZaYWFYcFZDWC1DV0M?oc=5",
+      "category": "能源与效率",
+      "date": "2026-10-30T07:33:57+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
     {
       "title": "Groundup.ai launches GINA V2 for industrial maintenance",
       "summary": "Groundup.ai launches GINA V2 for industrial maintenance IT Brief Asia",
@@ -28,23 +130,6 @@
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Fix first, predict later: Five predictive maintenance lessons from AMNA 2026",
-      "summary": "Fix first, predict later: Five predictive maintenance lessons from AMNA 2026 Automotive Manufacturing Solutions",
-      "source": "Automotive Manufacturing Solutions",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWN5ZGU3R3BZc25uVkNDTEF1cm5mLUZpMTl5SDhjT1dBdmQtaHA4aWdSWnJsWXlpTFVYOWZFdkpyVWhhMm5lUDBWcnY1ZFhNeFFBOTZJNmF6YzFzWFFyWVlNSUM5b190Ql81c0ZxcXgzb1psbExEaWV4Q2IxQVNTbzhjZ05PbEJiVXZ2WTJETUVIcnp3UlFSXzNmSElqNldqZnVqb2g1cmRDNmtDUDVxWUZOdDNreTgwYlZWUG1RclZzbzBxVFpzREdWSU5wMGh6QU9xd1NKaUxSRDdkOGxn?oc=5",
-      "category": "设备监测",
-      "date": "2026-10-29T10:15:55+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -104,23 +189,6 @@
       }
     },
     {
-      "title": "Manufacturing Execution System Industry worth $32.83 billion by 2032",
-      "summary": "Manufacturing Execution System Industry worth $32.83 billion by 2032 MarketsandMarkets",
-      "source": "MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvS3h4bE9idndudlE1UnE3bEY3dEdhejBRcGtqV05kRF9xeElrSDladkZObWZ1X29ZRXhKemMwdkNLdVpDUXo0RWY2MWNYTkEyMjhJRDNPTzdiQmMxLUZlSU1qclhuQQ?oc=5",
-      "category": "数据与软件",
-      "date": "2026-10-28T17:21:17+00:00",
-      "image": "assets/data.svg",
-      "opportunity": "可验证工厂数据连接、自动报表和系统间集成需求。",
-      "image_alt": "新闻来源图片或数据与软件类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "Ebara Elliott Energy Opens World’s First Commercial-Scale Liquid Hydrogen Pump Test Center and Manufacturing Hub",
       "summary": "Ebara Elliott Energy Opens World’s First Commercial-Scale Liquid Hydrogen Pump Test Center and Manufacturing Hub Renewable Energy Magazine",
       "source": "Renewable Energy Magazine",
@@ -130,6 +198,23 @@
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Manufacturing Execution System Industry worth $32.83 billion by 2032",
+      "summary": "Manufacturing Execution System Industry worth $32.83 billion by 2032 MarketsandMarkets",
+      "source": "MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50bjdZVUsyb09PdGh1ZEt1VFJWS243UDN3LXFrQWp6Rm1zUUo3Zjg2Q2xUd0JxT2huZHpnbEdDYWRSbk94cXI1SlgxUEZtMnhMQzFSSlBzUjhmRC1vejNLQm54TkVITEU?oc=5",
+      "category": "数据与软件",
+      "date": "2026-10-28T13:08:25+00:00",
+      "image": "assets/data.svg",
+      "opportunity": "可验证工厂数据连接、自动报表和系统间集成需求。",
+      "image_alt": "新闻来源图片或数据与软件类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -155,15 +240,49 @@
       }
     },
     {
-      "title": "Siemens and Nvidia advance AI-powered PCB inspection from digital twin to factory",
-      "summary": "Siemens and Nvidia advance AI-powered PCB inspection from digital twin to factory Robotics & Automation News",
-      "source": "Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVDFpRF9nNkVKZGhHelFMa2pDX3hDUVZGQUVjRnNVbEhReWVjX3VlZFJtT25Db1NIbW1sWjJveVZWTmJ6OGFqMzJPQ05PSXJ4UVBzdmwwQ3I1UzFWX3lZUmFxQUhvc3FqQ0FzT20tNUdVUjR5alJqQjk1VmhlQkdJVWtHWVVEckNTTjhCdTdxZHhOUVhxYVRYTXMzY1BUbVBJbFk0WDNTcEo4UzVQWFNndlJuY1RGRVNhM2dDUmF2YUJsV0oySHJFVnJDakRxbGxoUmFNNg?oc=5",
+      "title": "Humanoid Robots Enter Factories and Warehouses",
+      "summary": "Humanoid Robots Enter Factories and Warehouses Global Trade Magazine",
+      "source": "Global Trade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUFYMDQyV0JkTmo5bkduTnk1WjlaUEg2a0pHSmpWNExMTmZzS0tQME9yOFVySW5xMkNncllLcGNxS0Exck55S0lnZTZJQ0xUaWk0aGx1Yk10eTI4QWduM21Qb0NQbEhEMzcxdUpZLS1yMm05bkJiUGxlN2xlLV8zTkxqbnE?oc=5",
       "category": "机器人",
-      "date": "2026-10-28T10:34:56+00:00",
+      "date": "2026-10-28T10:42:22+00:00",
       "image": "assets/robot.svg",
       "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
       "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "TCS launches industrial AI foundry for manufacturers",
+      "summary": "TCS launches industrial AI foundry for manufacturers IT Brief UK",
+      "source": "IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVNNQWt1aGxFU1NScjVMblZ5SUNZVzhXTE9VNzhTSTktWk5aamswdEtYMTgxUU9UWDhuZ1U2V2FUYm9LVWtKYVZPcmZYV1VzSUJ5Um1UNkZiOWU5OXZ2d3oyeF9odF9sRElPZ2NNVGdHUkp0X1NkaHl5LTlZTkI3QlJuaWttREE?oc=5",
+      "category": "工业 AI",
+      "date": "2026-10-28T08:45:00+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "ISA-95-based energy monitoring platform spans 15,000 devices across glass plants",
+      "summary": "ISA-95-based energy monitoring platform spans 15,000 devices across glass plants Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3NGTmY5YjNzY3E3bWVCSUt3VDhrR3N0d1lSMHR1WFkzMWhJamNTLXZtTFloV0c1bWJLR2k5U21nSEt0N3NCdElFeVRGWVRCTlFodFRQRGpYUlpyOWRpY2NLSzdibEZtb2VuZHJpZGJ4OGdzT2laMDJjYkdQTjFnRkZlRS0wZGNaMmpWZ3c0TWJpOUpYZG5RWTRDcGRiV3BpSHNuOXNIZw?oc=5",
+      "category": "能源与效率",
+      "date": "2026-10-28T08:18:45+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -189,12 +308,12 @@
       }
     },
     {
-      "title": "Mouser Stocking Wide Selection of Industrial Automation Solutions from Banner Engineering",
-      "summary": "Mouser Stocking Wide Selection of Industrial Automation Solutions from Banner Engineering FinancialContent",
-      "source": "FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGpIUzRVU1lMMkU4T3FCdEFGc0Z0UUZ4S2VoQURSbnd6UW9ER2toRk1GVm40N1JUTVVCdnAtb04wR3FWS04tblVGUFZBM3RuTkRhcFZKakV4OE84XzQtLVdRSHNiR3BSUENFbGxpT2E5VkpISmR0OGVyYUl1RzdjaC0tTFIta3NILTk1eEs3aGIwWGVDRUZwNmViNElOdkRIOXFxc0oyT053bkVSVVVPZ3YyZVlYd1BWVkhkVm45NUxfLXZIV1Bxbk1MVlB0RGw0d2YxV3I5X1dRZ3hwa2UyVzdOVQ?oc=5",
+      "title": "Switchgear Monitoring System Market worth $3.80 billion by 2031",
+      "summary": "Switchgear Monitoring System Market worth $3.80 billion by 2031 MarketsandMarkets",
+      "source": "MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmVBTGhEcXdOc1hibEdyc3UwODRiT01pcE5QczJZUWFXNXgyRW1VUUFibkd0SmVhbmFwa1B4aEpaVGJxRWc4SGpveUpwenlaMEd4cEo0UlY0WnktaUJISkpDUWFZN3dGSUxmYjFKYmpSdDZQeUFXU0F4VzEwbjVZNzFPdWR5RUk?oc=5",
       "category": "设备监测",
-      "date": "2026-10-27T15:11:00+00:00",
+      "date": "2026-10-27T17:06:03+00:00",
       "image": "assets/monitor.svg",
       "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
       "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
@@ -240,66 +359,15 @@
       }
     },
     {
-      "title": "How Zero-Defects Tech Is Changing Quality Control",
-      "summary": "How Zero-Defects Tech Is Changing Quality Control Thomasnet",
-      "source": "Thomasnet",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aeXVkblBMVDVISnlGTnVpVkNXWVVfWVJvUy1seFRPMGdUNmxFSkF2Nk1BQmhyaGYtc2J5UE42MVdfYnlMMnQxYkxuYTE1LXZ0ZHFsS19CT2hXdFV4YVFVS1h6eXZxQTItZy1pbE93?oc=5",
-      "category": "设备监测",
-      "date": "2026-10-26T20:53:42+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Schneider teams with HPE and Nvidia on industrial AI agents at the edge",
-      "summary": "Schneider teams with HPE and Nvidia on industrial AI agents at the edge Fierce Network",
-      "source": "Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGczRDFGYmlNM3M3dU5aaUZ4OG5DeXM5NDdIa3A1VFZzbHRRNGJlVjMwNHhSbERZZVcwNG1tMlpFNzRnbHpYLWc0M0txbjRHMk1YZ3JMRkRlWGxPMThZRkZ3WUJ5Zk5nSGtuZ3o4cjc5ZFF2bGdQYV9Hd2lIT3FSS0tZeUhmbVU1dUNCeTM4ZEdTYWFrTlZqZw?oc=5",
-      "category": "能源与效率",
-      "date": "2026-10-26T17:22:08+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Siemens Partners With NVIDIA to Advance Industrial AI",
-      "summary": "Siemens Partners With NVIDIA to Advance Industrial AI the Electrical Distributor magazine",
-      "source": "the Electrical Distributor magazine",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Td3FVaVRGbG43eXJWdVBvXzdPb1JuTF9pQlQ3TXdqUTFPMUNFNXNkaFVQeDAxbHFqcmZRMEdyRW9MbWVqRlRMOXVwSnlyZWFmUnNxdXh0bm1TRnlmMFV4cDdEeFlNbS1iQnJmVE1jaVdzbVZFbFpGaUJwb3NfZw?oc=5",
-      "category": "工业 AI",
-      "date": "2026-10-26T16:16:11+00:00",
-      "image": "assets/ai.svg",
-      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Smart Manufacturing Market Research Report Providing Analysis on Growth, Segments, and Key Competitors",
-      "summary": "Smart Manufacturing Market Research Report Providing Analysis on Growth, Segments, and Key Competitors The National Law Review",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR213Q3BTOUh0WXAtZnB5Sl9GcDdmS0xncEhuNzg4TW5maVpEN3dWOUdUYzVweHBEYjhTZHpzWlhxNDFMYWFmZFctYmZEdlJYVXktRzR4Ni1ZYWdyUjFsLU5IU19lT0dQMGpHdEpaM2Z2TkYzYTNXbjdSY1pEX181b2V2c0VSSkVsdVpvVUthV3RsWHYyWmY5ZG5SbTk5dDRDYmEwckU0VXVMcjF1?oc=5",
-      "category": "数据与软件",
-      "date": "2026-10-26T15:54:22+00:00",
-      "image": "assets/data.svg",
-      "opportunity": "可验证工厂数据连接、自动报表和系统间集成需求。",
-      "image_alt": "新闻来源图片或数据与软件类别备用插画（非新闻现场照片）",
+      "title": "Colare Raises $2.5M to Staff the $35.6B Defense Tech Wave",
+      "summary": "Colare Raises $2.5M to Staff the $35.6B Defense Tech Wave HackerNoon",
+      "source": "HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWVLZktZSXFWQ2J0WDdVV0dqa3NNU0tpdndUTXdPdmRJSHE2YW1qRnRZaEpQb0F2LXRoWjlESEt2bmxVbkpWb0NFLUhlRGViNGxENjhySjdhUGxHRXQtd2FFSDNjUkRJei1iYnJyb1F3Y05GSVdRX1dERDZVUjdMOTB4Mjc?oc=5",
+      "category": "创业信号",
+      "date": "2026-10-26T16:48:33+00:00",
+      "image": "assets/startup.svg",
+      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
+      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -325,83 +393,15 @@
       }
     },
     {
-      "title": "Upcoming IPOs 2026: 40+ Startups in the IPO Pipeline",
-      "summary": "Upcoming IPOs 2026: 40+ Startups in the IPO Pipeline Access IPOs",
-      "source": "Access IPOs",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wa2owUkNTZG1zQk56MEsyUU5uZ2h5T19sNVgyOTZ4aVdYMWVrR0tmYWVQLWNicGIxaXc4R1E2TzB1YzlyVFdYaDljSy0tUQ?oc=5",
-      "category": "创业信号",
-      "date": "2026-10-26T14:49:39+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring, cybersecurity and energy optimization",
-      "summary": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring, cybersecurity and energy optimization Industrial Cyber",
-      "source": "Industrial Cyber",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeEpzUXVOelJ4UVFyOWkyU3pwSFlWZnNOT3cwdk5QeGxKRTltbWJPdGRMVTlaUElaSzN3V0k1dFkwMk50U1RVMVpCeHR1SVdSak10VzRrY2thbjdHci1Ld0szTTVSbmF4TnlyTFVJd29sYTVfTE1BaExaRjVYSlBPbXNrM2Qxbm5YV3BESXYyazZ0YVJLMTBvU0lYUEtaMXZWZlVILVBPQ2RfTE10UFFBUVRFcjhLSW9RRGlfOXpFWmxoY21HNnpZVzJ0dFhxN0wyV2lzWUtZejJoQTVCNUNkWUVVUGVjQQ?oc=5",
-      "category": "能源与效率",
-      "date": "2026-10-26T09:49:53+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "24 Fastest Growing Companies & Startups (October 2026)",
-      "summary": "24 Fastest Growing Companies & Startups (October 2026) Exploding Topics",
-      "source": "Exploding Topics",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3SWR0UnU0aDlmLTBuNXNSVmxLT3k1UnF1cVJpdVJWckhDNDhJWFpxenUwam1RY3lhWHR4WWJUOThkZXRVdm9QdmFJb2dfWU1NVUN0cUlWS0YtMUlyMEZJVkRmbllDdw?oc=5",
-      "category": "创业信号",
-      "date": "2026-10-26T07:00:00+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "AIRERA at COMVAC: China Leading Oil-Free Air Compressor Manufacturer with TUV Class 0 Certification",
-      "summary": "AIRERA at COMVAC: China Leading Oil-Free Air Compressor Manufacturer with TUV Class 0 Certification Akron Beacon Journal",
-      "source": "Akron Beacon Journal",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR2FvWk5mYzY1TG9EVDdTZWJyeERNQU9kUlpUanhaaGJFNzdCS0dwMEc1X040NVRWamtsRXVFTW1JTFBBQnNZMk5PNmJoakc4RHJXOUx5Q1c0bHVOUnlObldYWEVsSTBidkVKRG5iTW5zakZHNVJHQlRFUV9faVFyU2x3QTItWkFlVGFxMjFOMjFVR1dpNVg5a2t3M3c0ay1qLTdiQWdacFFBYi1DVlFEXzJIdURBaS1DcVZyRnlsUENlU2tlN1ZnaVNIQXVUVDB2dktzMzVQSTEzNl9xLTllODVYTGw2bHpxeU9Ocw?oc=5",
-      "category": "能源与效率",
-      "date": "2026-10-24T21:58:48+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
-      "summary": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings Crunchbase News",
-      "source": "Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGxkU1NjR2xRMU5MVmRtMnRSTmV0QnhaZHN5b0I1OWFPRVlDN2tSWW5YM1NmQUZoNnBETThwdjFEOHNkSUNFVUNUMXA1bmFGYUhTeDV2UDk3RzJlODE3dlNRR1ZoekFXRTk4QmVLbzV3SWxHTk81R2RXYWdyMWplc2xLeWk0MjRWNE10clJjb3lRbDJycTdiRlZRelZESGlf?oc=5",
-      "category": "创业信号",
-      "date": "2026-10-23T18:51:22+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
+      "title": "Smart Manufacturing Market Research Report Providing Analysis on Growth, Segments, and Key Competitors",
+      "summary": "Smart Manufacturing Market Research Report Providing Analysis on Growth, Segments, and Key Competitors EIN Presswire",
+      "source": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbUlLRk56ZmhRb3dDckpmX3A1RFpGQkdjTzdTZHhqd1ZBdGZka1VMamdfNW5IOHRjQ2pQU0FMY1dvM1NFUDVad0dkcmJJQW4zSEdEWmZKOHo0RWZmZFhHc2xoM0FOb2FWT3BlTFRCWWFldnk4WWRTb05fcGpTOWpiMWNHdlFDbk1qeWZsUWEwd05jUlhuV1IyRWI5NkFDNWE3OEpxWUFhbTVCWmc1U1BHQ01iXzhNejZkeWlZR0wzVnVnU21UQXhPaHBqX01RV3pMRUFEX3JIMGFraTl5NVRRQQ?oc=5",
+      "category": "数据与软件",
+      "date": "2026-10-26T14:30:00+00:00",
+      "image": "assets/data.svg",
+      "opportunity": "可验证工厂数据连接、自动报表和系统间集成需求。",
+      "image_alt": "新闻来源图片或数据与软件类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
