@@ -1,13 +1,132 @@
 {
-  "updated_at": "2026-11-05T06:47:20Z",
+  "updated_at": "2026-11-06T06:46:57Z",
   "articles": [
     {
-      "title": "Flow Probes Market To 2035: Water Infrastructure and Iiot Drive Forward Growth - News and Statistics",
-      "summary": "Flow Probes Market To 2035: Water Infrastructure and Iiot Drive Forward Growth - News and Statistics IndexBox",
+      "title": "Top 9 Intelligent Automation Equipment Manufacturers for 2026 Market Research",
+      "summary": "Top 9 Intelligent Automation Equipment Manufacturers for 2026 Market Research Cincinnati Enquirer",
+      "source": "Cincinnati Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVZtbzB1OWM4NjF2RmtINGxTcy1idjVhQ3hqOWMzRnFhTjMtb0pNQl9MUG9UQmwzRkxpVExPaE5sNkh1UElKaG9DYUk5M21UakZmeW5iUU4yY0RacGl5NFh5d0NYUVJUNnF1YUxSaXRmdUkxYWFuSldLcTJGUEhlZC1TNlVJamNNb0NHcEdnWS14SEFsRDcxbTlINkx6dWRmVndXSTRnamctZjBlajF3SmhWWDJkczktN2xDbnVXUGYwenhKWnBHc3B3NEY?oc=5",
+      "category": "机器人",
+      "date": "2026-11-05T21:20:11+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Q&A: How is American manufacturing evolving with AI and robotics?",
+      "summary": "Q&A: How is American manufacturing evolving with AI and robotics? The Pennsylvania State University",
+      "source": "The Pennsylvania State University",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkZuSVNDSkRjNV83c0F6YVduMjBWU0VfQ0dSTHNVd1ZqZTE4OW9LZTZ1TTFxcnM1WmdLRkhEbTRZdjc0TjBaUkQ3ZGw1cGZDV3dqRWhQVWFyWU5vSTc5SWRleVB3c0NQSS1TdFZ1Y0xZNEVjRXZzUGEtb1BWdzR3ajhJYWVBajMtdmNEZ0ppRUh3NDFRWWZVWmJn?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-05T18:40:05+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Centrifugal Air Compressor Market To 2035: Efficiency Retrofits and Oil-Free Demand Drive Growth - News and Statistics",
+      "summary": "Centrifugal Air Compressor Market To 2035: Efficiency Retrofits and Oil-Free Demand Drive Growth - News and Statistics IndexBox",
       "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcGhfMFpIVEw3cDcxRTl2Y3ZZVDJKUHlZVjlkYWJPanlKcWlaLXNiRGJSMXVfRGREOFhsMm9ieGh0ME9HYzJ2ZXlmakhBbVlFNlFPUUhzT1Z3YWFJQ3Vvbk9vOGRPbVhPOE5UUHFkNmNSSEMyWHFqNFZJMmlaSzFRbXhfOHpDOGVWNkg0aGlyLUVqYURVM2duTzBBNmFUTGR6Wm13Y3ZpcDZ6TjNHUEI4NFczQXktZGM4aEktdUpVODg5Z3ZqeVphUnh0Q1Y5RnFWSndTakU3MW5jMDUzSFBz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS2hXOFUwbzMwUVVDRkJ3MmJTd2ZiYUctMFZ4cDhYVElXZnZKZ29kOHlFaHVYWEhHSTZVVEF2RkV1bnR4a1ZySjlGcjY5MGNGZWcwZmhNTWRmZTdEZTM4bE1RUEVjSkFVQURwblctSDE2NERIbDJlTTRmMDE3WWxVdVUxaVRGcW5PaEY3dzJFVzlaakNZZkdkMnFZOGQ3QWhqQ05tOW0wSWZxRkI1SmhEV29zVDFIckJWeEp6RDA0UHBYY3hmODd4NW5JS3lQM1hsMG4zb1JWb3ZXY2dfMURIV29R?oc=5",
       "category": "能源与效率",
-      "date": "2026-11-05T05:06:04+00:00",
+      "date": "2026-11-05T18:26:04+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "MVTec, Bosch Rexroth, & Bosch Manufacturing Unite for Vision Integration",
+      "summary": "MVTec, Bosch Rexroth, & Bosch Manufacturing Unite for Vision Integration Design News",
+      "source": "Design News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2VUd0RKT0ZVM1VNNmMtSkZvYnlrOWF0VDhHam5MeVhEMk40QlU3WWhkMzBjcmMwTGdWb2REcjhTY1dZTW1vWll2WTU2R3NDeVN4UHVuQnNRS2ZYS2F5NkRVR1NmWmI4c3lfY1hUVUpPcjd6dnhUc1FTQ1JIRkIyUElwSzVROTdDTktJZi1UTTZ3WFo5cU9QT2pBYjVmZnVSSEVEUUNSeEhXRDRCZmpV?oc=5",
+      "category": "机器人",
+      "date": "2026-11-05T15:46:31+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Top 10 Distribution Transformer Manufacturers in 2026: Advancing Power Grid Efficiency",
+      "summary": "Top 10 Distribution Transformer Manufacturers in 2026: Advancing Power Grid Efficiency IndyStar",
+      "source": "IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTRWOTRXVVhDeEt1UkRXWUNQbGJzWHdXNk9ETXpZNlRVN1p1TVFpWVp1TG9KN3hLYlA0Mktra25JZHliNGVuY3hIdmpHNW9ER3hVV2l5M3U1MTBUTHMwWnV1d0pCUTNYV1gyLTN0dHJ0MUpyZ1Rfa0hIU25Kblp4aldPd3Q1VkhlR016X3RIMVZXWEgxSmVlVXdEM3FfS2l5Q3VNVlY5ZHFSZksySmxRYzV6NUV6UWVWQ1k0RmQxcHFNbU10MS1XWXMtY2M5TkVpeGhoYQ?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-05T14:58:48+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "From energy efficiency to circularity: SKF brings industrial solutions to COP31",
+      "summary": "From energy efficiency to circularity: SKF brings industrial solutions to COP31 Macau Business",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXU0X0tKNU1ZbjBLcGtzQ1ItY3UwUlkyMjRyWHRwa2tjb3dmdE9qOWZKSHkzSkF4VVpNWF9sV3ZGUWkxdTlNUlBlalh5SnBfTF9OSU1EN2hWZHAwNlQtYjltdDhUSEM5bTROZnJDVFlQRlhKanZad01VTG1fUVVRREtIY3IwcG4ySkNSaU9BdXptaEtDTzk1QWVBX2Y1ODNvYUVOTG1uV04?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-05T13:40:32+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Path Robotics is hiring for more than 50 Columbus roles in physical AI",
+      "summary": "Path Robotics is hiring for more than 50 Columbus roles in physical AI Ohio Tech News",
+      "source": "Ohio Tech News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTVCb2djamNxMEt1RERvcHNhaE9GeWhRX0hPdVVkblBQSEpBNXZZOWpNUjUxcWVfZ2ZZbnhodlRMOThGdjAtRHRmeVNCMk1YSnh5VGNZRFJxYXdTdGpiLXJ2bWdUY2R1ZXdhbm5CVzNzbTFON0ZVdmJLWWZMNkpFWjZRNDZoelFqZmVOd1kxdkFqTlRoV0JiMmhuNEtaQQ?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-05T12:23:29+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "LONGi unveils intelligent manufacturing base in Suzhou to advance solar-storage integration",
+      "summary": "LONGi unveils intelligent manufacturing base in Suzhou to advance solar-storage integration Global Times",
+      "source": "Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SMU1ic0otcEU1UmJHWlMzNW9NWmJlRkxUeW5HYUpYbFROVWFvRUJSeGVXcHNmUDhUSWlURV9KQmc2bVBpMGxLZXhBNjZKNDZ2bE1YODFyMTFtSWxjQjRILUR3?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-05T08:56:00+00:00",
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
@@ -36,12 +155,12 @@
       }
     },
     {
-      "title": "Manufacturers risk losing export markets without shift to smart energy –Minister",
-      "summary": "Manufacturers risk losing export markets without shift to smart energy –Minister The Sun Nigeria",
-      "source": "The Sun Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0UxcE1DX0tVSVotS0U2TUVpUXk0cXlsSUpEZFZmcGJIaW9zUnVpbjN4a01admVPckk5S0RkT3VhdjJRelhuRDhXZFJlUE5JTmJVaXRwS0J4SGhSeXFnY3BVTjdlZ1FrVzZ1aTVVa293SEVRSTRXM2p6Rm9md1FoMW5ybU84d0dERGFhbC1nZTR4ckhEak43ODVSUlZDM1E?oc=5",
+      "title": "Rising energy costs impact manufacturers’ working capital, output",
+      "summary": "Rising energy costs impact manufacturers’ working capital, output The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMERRY24ydWFaYkszQXNVV0VmeUVocFduN2VNZHlvVGpZU0NrallrZzNaMjFuWlNJbnRoWlo0TUprczJGWFFRV2dPeUluUTlaLWpnemJvT3B0LUwwRGx4UVhKbHF3cXVUVGdvQjZiUG1rOWZKVGpFaGxvVFlVclJQQTJrTmdxdVlqdXI5ZDJNWXBPWW1ZTzU5Y3JSeF9ScHRtdUxtRw?oc=5",
       "category": "能源与效率",
-      "date": "2026-11-05T01:08:03+00:00",
+      "date": "2026-11-05T03:37:47+00:00",
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
@@ -53,29 +172,12 @@
       }
     },
     {
-      "title": "Ultrasonic Leak Detectors Market Forecast to 2035, Driven by Energy Efficiency and Predictive Maintenance",
-      "summary": "Ultrasonic Leak Detectors Market Forecast to 2035, Driven by Energy Efficiency and Predictive Maintenance IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYmFOS29tM21GOTdHVjVNX2pkTGxiWFpKUDc4WXNoTUQxM3cxTXozbGhlaWdRSlNISDNIM1VPalJfbl9kWWhobnNfTjBXV090M2sxUDY0aloxMjktQlV2TTFMN3ZVSjVNUlRBSHRkVHFtVGNsTGIzMVR4RGdmMi1EdU9LeThvVjBaMFB6bHBhWkxJdlY1LUhDWkJNM0NKRlhucThxUDBpNDk4c3Z4eUVJZVR6b1JoQnBfU2dNNE1qbUFicTJyclpFNGFaTGVUcDA?oc=5",
-      "category": "设备监测",
-      "date": "2026-11-04T21:41:05+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "MAN Drives New Smart Energy Management Solutions To Reduce High Costs",
-      "summary": "MAN Drives New Smart Energy Management Solutions To Reduce High Costs LEADERSHIP Newspapers",
-      "source": "LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmRlR1A1NWU4YWdIRUZhYWU2RW5BMmg1VEJZNjVHQzhJZEstdWVsQjZNN2VObGhtYUpmMWwzS0lhZ0k4M3ZwQllyVV9BdVRFTExBel9weGtBcE8tT1N4SXB4cU4wV0JrUGFQY0F5OENwVzZJNUpkTXQ0Nm1xSmhUSUROVUxuUTRWaHI4UVlaN1JzRko5VktF?oc=5",
+      "title": "Manufacturers risk losing export markets without shift to smart energy –Minister",
+      "summary": "Manufacturers risk losing export markets without shift to smart energy –Minister The Sun Nigeria",
+      "source": "The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0UxcE1DX0tVSVotS0U2TUVpUXk0cXlsSUpEZFZmcGJIaW9zUnVpbjN4a01admVPckk5S0RkT3VhdjJRelhuRDhXZFJlUE5JTmJVaXRwS0J4SGhSeXFnY3BVTjdlZ1FrVzZ1aTVVa293SEVRSTRXM2p6Rm9md1FoMW5ybU84d0dERGFhbC1nZTR4ckhEak43ODVSUlZDM1E?oc=5",
       "category": "能源与效率",
-      "date": "2026-11-04T18:34:12+00:00",
+      "date": "2026-11-05T01:08:03+00:00",
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
@@ -96,23 +198,6 @@
       "image": "assets/monitor.svg",
       "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
       "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Top 10 Distribution Transformer Manufacturers in 2026: Advancing Power Grid Efficiency",
-      "summary": "Top 10 Distribution Transformer Manufacturers in 2026: Advancing Power Grid Efficiency EIN News",
-      "source": "EIN News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2NpQW5mUHR4X0NHNG1zYnVMODZxSVh0YktNRFdHQVZVRndvMWl2SnlHOGtZM1RsQ2VKMF9MLVM5dl8yQjdvSWw0d3FMSU5TQ2ZwalA2Z2JZUzAybHRqUE5ua3FZX1VuZ2dWNGFwRzg5RFNOakhLM1pqOVBTY0pIMzB4MFNmMXcxckhlSnF5TWtTeVR4REo1UEFXUHBHZ254bjQ0RG00eHJMbnBsUjN1RndLeHdzVjZ4WTU3NzhUMWk0YkRPaEE?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-04T07:03:00+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -210,11 +295,11 @@
       "summary": "From Downtime to Intelligent Production: BMA Conventions Brings Manufacturing/Industrial Facility Leaders Together in Dallas StreetInsider",
       "source": "StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbHMyU3VhMERDRU5OZjBXOEM2U2I3clNubGE0Y1ZfZWo4ZkpaeXctUEhLVXhmdUxicWQwN3Y2c2dHaUVjal9fS2tzUGM3RGJYYmRlTFhkNlpHMUZyeWhkbU9qY21DalZlU1hsNlFUQ3hJbFI0XzMyaXVIUEVCeWZzcnU3MHRxTHdYNGc4Q3pGdjE5QjVwWVZKdHktLXRSMXBoUnQ1UWd5aGlLamtCR0N1NURsWWZKdE9ybGRVaFR6SlptalI1S2lhN3RxMzFxVU94amVlMnpWZFJwN1Q0Y2hHWnVlaGh1YXpnSS1HRVBJWkF1djYxcGZ4TjdZYVl6cGpKTE96SXpoNmtsQ3hwUDYyVHZWYw?oc=5",
-      "category": "工业 AI",
+      "category": "能源与效率",
       "date": "2026-11-03T17:16:13+00:00",
-      "image": "assets/ai.svg",
+      "image": "assets/energy.svg",
       "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -274,15 +359,32 @@
       }
     },
     {
-      "title": "The Role of Gas Analysis in the Clean Industrial Revolution",
-      "summary": "The Role of Gas Analysis in the Clean Industrial Revolution AZoM",
-      "source": "AZoM",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDNWZvZHp4T1pMckFKck9Ycm0yQWRpOE1DbmdiUkFKa3NoemVHMVhYWEJpV2JLMm53TmJHZU9oVE0wQVBaSGNIeUtKRVBrLXA3RFFxZHZHblRYRHZERkE?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-03T14:03:35+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "title": "D-Tex Visual expands range of AI sensors to the theme park sector",
+      "summary": "D-Tex Visual expands range of AI sensors to the theme park sector Blooloop",
+      "source": "Blooloop",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JQjhsX1JqWHd6R19hSWppNWNXc0w4RUtWWXY3QU5YRjJQb1dGRWo4NGhPUWxtVThyRU5TWkFVd0xkbkt6Z25RRzFEbGZNZ1I5VnRsTzhpZWlkV0RoRHR5R1dnNTdkdw?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-03T12:48:29+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "TURCK Simplifies Condition Monitoring with Compact New Solution",
+      "summary": "TURCK Simplifies Condition Monitoring with Compact New Solution AZoSensors",
+      "source": "AZoSensors",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NYjJvaTZSVHhzMEtHR05xR3FRN2NVZ0dqaFZDQzNkNmRfQldaMzhGb0hnYjc1cEdDdER0bmQ2bW5HQnU4MDNGUkp2dGZhVVI3aW1Scy1meGdBSmRJVFE?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-03T06:53:00+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -300,108 +402,6 @@
       "image": "assets/data.svg",
       "opportunity": "可验证工厂数据连接、自动报表和系统间集成需求。",
       "image_alt": "新闻来源图片或数据与软件类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "JBE Elevates Energy Efficiency as a High quality PVC Hollow Sheets Manufacturer in China",
-      "summary": "JBE Elevates Energy Efficiency as a High quality PVC Hollow Sheets Manufacturer in China EIN Presswire",
-      "source": "EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUZmVTNJWXg0ZHBzSmlBbXJFckp0RHhET1VWM0ZUTnJNdUJ6MFFMUXdoR2gtUm5VRy1ZNGNuMFU0QVlnR1FLOG9aWkx4SkpkY3R5cFg4eXNmdXY1cFNoZUQ3LTVicjhVV1JZbWhTbkNnSHR6QzV0NXJDSUY0blNvRlVDc3A1T2J6VGp2YVFNajlFS3VmcUdra3lDOHFmVElKUTM0ZDlOdUVacEZ2LW4waEQzUEZQU0ZuZnRVSjVPVWxMSGJmT3phYnlfM2MzbkN2?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-03T06:32:00+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research",
-      "summary": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb01xQUlHNzBLdmJraHJWQzRpTl9WZE1qaGd0aWNpQ2NUeFRpSGhpWXpvSjdmNFFTN2JNUW1XbUVrU2lvalhTWnhGNlNRU05mcW5LbThxWXFTd2lremprT3NPeFNKQUNIc3lUclZRX1BpRjdDTzVCWHFDWHd6bUplZ1czOWFidU04cDNXZVk3ZGV0OVUtZHhHdmN4U2hUSFdWSmlFSjdtd0tiN3lKb3lrY2c1ZURKR1FKOTR3bm83UHNWYlZSVzJhekV0Ym0wVVN5Z3MtZUZQRWxTNU5EUlZJQlY2UDl5RlNtellhY0xpT08?oc=5",
-      "category": "机器人",
-      "date": "2026-11-02T22:01:00+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Condensing Units Market To 2035: Cold Chain and Lower-GWP Retrofits Drive Growth - News and Statistics",
-      "summary": "Condensing Units Market To 2035: Cold Chain and Lower-GWP Retrofits Drive Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmdzVnFraktBTzR3YjVmejF2N0hIVXFfaHFHeXRqYWQ1NFNJSExvRzJMOUZYVElsQTdNQlpSZWRreVdyc3RTbDFWOFpEUnBpOS1HZGVUVnpjWVlFOUVBc1pRNmVqUV9jbG9IVjVZWm9BTG12RFJoY3RteThyRXVDVXFrQUVSdmt3a2dlNktaM19RSG15T2VmVm9lSk9GZXVWZTdjcTVaaTJROTFXQ0RfaURvSGtaUTA0NUFMYnhxT1NiVGh3bGdJ?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-02T21:16:04+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "aRoboticsCompany Inc. Brings Defense Manufacturing Expertise to U.S. Robotics Policy, Joins Robots for America as Founding Member",
-      "summary": "aRoboticsCompany Inc. Brings Defense Manufacturing Expertise to U.S. Robotics Policy, Joins Robots for America as Founding Member Morningstar",
-      "source": "Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOc01jQzN3OXRhQnY1cWpMZVBfU2tVMW92Z0tRb056cF9tZzViVjhFQTRaZ2RNSW0tN3NXd3JBcjBpWjlYS2FQbTMxaFBtYWhUUnhtMEhFd0NHNUl4UlpCWEdtTURjYWZKeU1xaHpLcHR3MEZpUTB6cEdNSDhXcUVIYW9wemUtUmpoZFM1VVR1UTR3bHdWMlJNZnlPWk85b3RnQ1ZaWFlHcTZVTlNYb2x0elNILVdURGZEbnZwMHBoSXZFZVl4QWMwZkJNMFh0ekFHUlVCRDBmdlFxWDlTSy1aTE1kTldaZ0xZRC1PYzZTNGdWbWlieGswRlU0dTdTbGE4ZTFzZFZLTmg4bk1N?oc=5",
-      "category": "机器人",
-      "date": "2026-11-02T17:00:00+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Tech unicorn companies list & tracker",
-      "summary": "Tech unicorn companies list & tracker PitchBook",
-      "source": "PitchBook",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SFZfSXlGb1l4ZXVjYno0bjhsOWxKQ1dnWXVyd3lUc2R0cm5KSkxmTTM2WjFXdS1ZTVc3QjRWdnlndGZVeVMtbEJPUV9mZl9nNTNoZXpleHhVNDJFeS1HVVU5TVVGWEF5M2VjTEtfeF9TZw?oc=5",
-      "category": "创业信号",
-      "date": "2026-11-02T16:00:00+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "NORD Drive Monitor uses IIoT to support predictive maintenance",
-      "summary": "NORD Drive Monitor uses IIoT to support predictive maintenance Engineer Live",
-      "source": "Engineer Live",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXBFdVA0d1dZSzk4TEo0cTRNanlWMnY2Wk5kMnB2eTNJNHVXakF2eFhCR2dvY0k2enZoZ0d3UXFUTFNkREotUi1keUg3eVNjaURWVzUwdG9jS0JRTUl0d2cxdjZkZkhmdUpEeHh6blJNODJpUmliWVlsRlpZckROLVpUMWYzQ204elN3YzRrc244Zw?oc=5",
-      "category": "设备监测",
-      "date": "2026-11-02T12:40:22+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
