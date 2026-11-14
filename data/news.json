@@ -1,6 +1,176 @@
 {
-  "updated_at": "2026-11-13T06:46:39Z",
+  "updated_at": "2026-11-14T06:23:57Z",
   "articles": [
+    {
+      "title": "Packaging Automation and Control Market Forecast to 2035, Driven by E-Commerce Fulfillment and Labor Shortages",
+      "summary": "Packaging Automation and Control Market Forecast to 2035, Driven by E-Commerce Fulfillment and Labor Shortages IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXRpYld3d184cWxqVkV0N28wSEo4SW9lc2l0OEk1T3FVOFNlVjYwVEx1UVFNbmU4TzNNU2hVTFQxaWRXX1dheWhlZ1ZKbnBrODBTT1BwSWxPYUthTVp4R3lhYWQ4dXNtTmRwWEJPeFZsMFVfVWJNTmk4ZUtnRHBZLVZ1OFpRRGZPTXhvT3lsTkJKMGI0Zm5xbXhOY2UxRjFDTFhkNkVNSnMzNnJBT1FWT0RaNFBWeGZZem5OZXE0THQyN1lubFJldWZOSXk5NFNORE9teXZn?oc=5",
+      "category": "机器人",
+      "date": "2026-11-14T05:01:09+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Gecko Robotics unveils faster Raptor inspection robot, with ADNOC as first customer",
+      "summary": "Gecko Robotics unveils faster Raptor inspection robot, with ADNOC as first customer Robotics & Automation News",
+      "source": "Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV05HU2JMM0dmcC12WlJXaHBkWkNXTVBRNGt0VnZEOE5Uc1FWMElEeUJsd1BqcUJOcFdqd0xBaV8ySEo3XzZNSEMxeV9HdnlUT05NbVVZN1BhMWhGb1NxR2RxWGhCS0dDVHc5VjEtSUI4WlZtd2Y1akNVbGd1MDl3eDQ2WFlORG9Jd2V0WUFCbGhaOC1Fc0xMTklXOWpaU3RvRU1NOWdNWmNUTjZYZkdpUWZlRU4zNWQwSTZLa3lkakZBNHJZZ2VwYUUwN0JwOW16RElhSDNR?oc=5",
+      "category": "机器人",
+      "date": "2026-11-14T03:15:32+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Jensen Huang’s departure raises questions about Nvidia’s industrial AI ambitions",
+      "summary": "Jensen Huang’s departure raises questions about Nvidia’s industrial AI ambitions Engineering.com",
+      "source": "Engineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXdENUpUXzhXdl9lMmY0TUU1RWJnSlFrcDRCOFN3ZWJHVkZxOXBwVHUzUFZCLWF5OS1ZZkxEd0JWOTM3NXB2NVg1alFhNG9ycDdPT1MtNFkwYTB0cjB0Q3lCMVpkdHo0OFVWeFRMZWRPNEFqV2Vod21FUldjR2hWa0FJMEIwelFUSkd4cU5qcUNZeG1LVjRzcnBUZE5YRDR6WVo3aTdRWWlJMmM?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-13T20:44:31+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Mass Flow Sensors Market Forecast to 2035: Growth Accelerates on Semiconductor and Energy Efficiency Demand",
+      "summary": "Mass Flow Sensors Market Forecast to 2035: Growth Accelerates on Semiconductor and Energy Efficiency Demand IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWFDeExBNFJlcWc0dl83TE9WLURqdm11VC1fUFRsTWF1SF9BbmdtbE82OTVvQXdSOWtjSGFRekUzeEh0R1lsQV9mS1I5dVIzUDJaZmhERHBIUlFOVWUzTm0zWHM1cGd5S0RGeGVYN0ItekpKUGZuVHVEZWc3RFF4ZEFPZVhJSlJyUVNHWlJHTkQ3bmQ0aUNXeFR4Zk9DMmxhNE5TRUFpUVpRYTBvaWx4X0ZMZUh4U1NIcXdRR1A3OUY3NDBjSjRUZzJzWVpjaHlheWc?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-13T20:41:06+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "From Sensor Alert To Work Order: How CMMS Closes The Insight-To-Action Gap In Predictive Maintenance",
+      "summary": "From Sensor Alert To Work Order: How CMMS Closes The Insight-To-Action Gap In Predictive Maintenance Automation World",
+      "source": "Automation World",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNVY4YkEzeDk0TENLRW9WX0dDaGh1ZEZQb2V2ejBKdnh3Y0dVb3p0TU13cC1ycHdySmdzc21vNHc4Q2c5aXVOaEwzN3A5eGV6NUh1bXBXUHNWNXdESWNzZHkyampNNTI4eDYwaE0xNEtKdlE0eDNReGNtSlVqZzBXbzYzUXdBN2RpTnBNQUNvZEZBU0lXMjJpemZUZV9FMzNudUNhRHExTWdfT2pMN2J1VVFiZzZlX1U1Yy16MUhHdkJETEVZejlEZ3h0a1psMXJMZ0pic2pRS2NKMEszZjBEdFJOX3V0TW9Wb2tnMVROa1Z6WkFycFJEWTFCZm5GQ29S?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-13T18:37:39+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Fady Saad, Founder and General Partner of Cybernetix Ventures – Interview Series",
+      "summary": "Fady Saad, Founder and General Partner of Cybernetix Ventures – Interview Series Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlFxSTM5SERST1R3bXJfbEVERjdvWE1oWjA0eDdzeGxrWVdUaXJmWFpZUXhXSlRzVUF2dkRhRnpOZ3NVaGRNRk5GWDY3c3lEa0VNRGtvSFJHLUZnNC1jblRtUjkweUVrUnAyRjVoMTlDYloteVlHaWlLSTRMeC1TRDFCbFZtNEFEQ1NrQ2VvLW1YWjZscmVGVVhEaFVRWi1G?oc=5",
+      "category": "创业信号",
+      "date": "2026-11-13T17:37:01+00:00",
+      "image": "assets/startup.svg",
+      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
+      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence",
+      "summary": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdWw5MTBBeGdUeEhEbFUzcnNQaTBIeFJpWXBmLVdsUWkzSmpPcTB3WXR4cld1TzZwVEJJNjdmVF9LSldxZDIzVlROeVRZbER3ZU0yZTF6YThiN3h3X0MxbEpFck53OS1mX1pmSkN2bkNGcjE5Z1J3RGZsLWVJa1BSZ3drMnRBbDIxYkF6OGNwcmVWcFgwb050MzZlbUR2cTh3VkxpQm9OVWpNbm9Fd2NmeEEyeGdZMTFUbl9FMXpkeGhMYVc1ZTEwNXRnLUNrMS10VTA1Wg?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-13T16:30:00+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Optimized Industrial Scheduling Cuts Bakery Energy Use and Steel Mill Electricity Costs",
+      "summary": "Optimized Industrial Scheduling Cuts Bakery Energy Use and Steel Mill Electricity Costs Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDRaODRSaW15Y0duMFMyZTZoYzU3akNuS044YUpwaGJwOTRSRWxUYnRHQ0hyY2F0cDRlaXBXb2REcUVqNnpWUHZaUmdGcE5zQlc2SHJTZnp5aE16M2YyQ09PTGRTLWhsV3RPd21fWWF3bGhpYnZmanF5RGpvaVFSWHpac0N0V2R3UGt6RGlwbmd6dzNtUExiV1M0QlE0c2I5NTN6ejg0QUk0ejRhbTdwRjFn?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-13T16:15:24+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "EU legislators agree on more free carbon allowances for energy-intensive industries",
+      "summary": "EU legislators agree on more free carbon allowances for energy-intensive industries INSIGHT EU MONITORING",
+      "source": "INSIGHT EU MONITORING",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGF0MG9xTnNReWRkUlV0bFA3d2EtS0Q1NFJxUVppQVlNM2ZEUFVldWV2eDBQMFlxR1NjYk5RX0xtLTJja3FOTjhvZmlMWmxINnpDX0JPVkt4aFdfMXd5R1dDbVN5MTZScmZPQ183b09XN2NrMHN5MXd0RHRrMHIwOXpkWUtWdTc3aG9NWGdnWV9CWG9SbHFtNFZ0aThkcHEwNlFPM2RPamttenoyZWVvVy0zVWQ4cFgwZXFFWVhTSjllNnVicmRWOVhyaDVmS3J5czVUcjg5M0RmNU1xZGVKamtVQ0w?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-13T01:01:06+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Swiss industry links AI, robots, and services to optimize inspection and production",
+      "summary": "Swiss industry links AI, robots, and services to optimize inspection and production Chosunbiz",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEhGMzFkYmJhM05mRXZpcmtxandZX2RFbWZRZXFjN0ZFbmdxOGJ6VE1xdUh3c3dpbFRmbmppdGhjY28yR2w5QXljUkNuN19YLUw4UkZPTHBxNC1sYURzTW1heUZJMFgxclQ2UGdiem5RVDRmSFRjdjQ0NmpNWUl6T0JZbmhLS2dzckIxVTV3RDl4cjJf0gGUAUFVX3lxTE04SEYzMWRiYmEzTmZFdmlya3Fqd1lfZEVtZlFlcWM3RkVuZ3E4YnpUTXF1SHdzd2lsVGZuaml0aGNjbzJHbDlBeWNSQ243X1gtTDhSRk9McHE0LWxhRHNNbWF5RkkwWDFyVDZQZ2J6blFUNGZIVGN2NDQ2ak1ZSXpPQlluaEtLZ3NyQjFVNXdEOXhyMl8?oc=5",
+      "category": "机器人",
+      "date": "2026-11-12T23:26:00+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
     {
       "title": "5 Real-World Examples of Maintenance Across Industries",
       "summary": "5 Real-World Examples of Maintenance Across Industries Small Business Trends",
@@ -28,40 +198,6 @@
       "image": "assets/monitor.svg",
       "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
       "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "summary": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence Britannica",
-      "source": "Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "category": "创业信号",
-      "date": "2026-11-12T20:17:00+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Industrial Audits Reveal Seventeen Percent Energy Efficiency Potential in Manufacturing Plants",
-      "summary": "Industrial Audits Reveal Seventeen Percent Energy Efficiency Potential in Manufacturing Plants Bioengineer.org",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZEVXd1FCbzNRMHAzZ0Qtb1NLTU40X1oxSUVlSW9vRmVGeTQ4R3RGeGNSV2M2XzdvbldiaEx5TnpPdkxNdDNfUE5CRG1nVndlV3E4cFQxQ1k0Qmp4YUQ2SDMwanVhOFNMNldhcWZTOXAtTGZ5OFBWTDMyeWhSbjA0bk8yeDR1ajZnX3E4U1ZoaXI3S1FrREZsbUhCdEplV1ZvZzJuQkZDVHp2SldEZ2VuRzNhaE1yRjU3NzJB?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-12T15:50:44+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -138,12 +274,12 @@
       }
     },
     {
-      "title": "Ageing machinery and skills gaps challenge packaging industry",
-      "summary": "Ageing machinery and skills gaps challenge packaging industry Packaging Gateway",
-      "source": "Packaging Gateway",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUlXVVRvWEVhWW8wbGhjNkdydjU1Unh3Tl9oSmdDandxS0VzUFpjQ2hBVFlDb2pGLVNYSnFvNWF1Y1did09rVC1VcVNpRUZObjZSWmtyZEFKZkh1R2RTc0FRamVvRld6NXNRbUNYWkZSckpXdm9jaUdQaW9nUVIzRkJva3BXSWxWdXJHbUpPTlNrNS1hdUdMMlpxeWc3clVwbXgzVVotLU4?oc=5",
+      "title": "£2.1 billion reasons to make energy work harder for UK industry",
+      "summary": "£2.1 billion reasons to make energy work harder for UK industry E.ON Energy",
+      "source": "E.ON Energy",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGloRU5HaDBWVDdiM0J3czJuTWJVa1ZQZDQ5N3gtd3JRZGNIdEphTHV4WkVQTGNhSjlDYkhTbExSUTVnOS1GRFZwekhSOUdmdTNGQmQtcUR0QUUwOWVOUTQtRXVERXlBSkRldk80WjZiV3B3SWROalZ0alJLNW52NmppdTB2NDJlNjJQVnpqVFhETjJYVFkzdWR3?oc=5",
       "category": "能源与效率",
-      "date": "2026-11-12T03:20:33+00:00",
+      "date": "2026-11-12T09:17:17+00:00",
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
@@ -161,23 +297,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xOXVzM3M1UGxfMF9wakNacUdfM3B2UWZkUWVzZzlKX29HVDdVcEhFbHFielZISTZvLWhSdE9qV2NIeXFULS12X3RQd3hYUjNIbTQ2ZXNKUjRGczE3aGFHcWZNZ2VBYWQtbWQzTHdfWXFURVJFTlBZ?oc=5",
       "category": "机器人",
       "date": "2026-11-11T23:00:45+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "ANYbotics begins deliveries of explosion-proof quadruped robot to industrial customers",
-      "summary": "ANYbotics begins deliveries of explosion-proof quadruped robot to industrial customers Robotics & Automation News",
-      "source": "Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWDF5cmx1S295WEw1b1JISEM4VVRxUHpkQko0MkF5VjRYbTNEbUpobXhpWml6OW9nbVNmeGpZbXJGdnRKRGFPOWZHTzZwZVdDdFVHU0liQVRlVUdhTlJHTTY3NFp2TWd4Z1RGSUlwYU11SXdCVWVuYXRFTV8waTlpOG0wbmhQSnhxaDc2aTdodnJodjBfaFpkVVZGNERIMHRJa0xiRWNPck9mcjR5QXFPYklsMjc1ek9TbUpIUzh1dWFILV9IZTNLQU5FWmNyWTVLdE91VnpadjFVaU0?oc=5",
-      "category": "机器人",
-      "date": "2026-11-11T21:43:30+00:00",
       "image": "assets/robot.svg",
       "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
       "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
@@ -240,32 +359,15 @@
       }
     },
     {
-      "title": "Sensor Market To 2035: ADAS and Automation Demand Fuels Growth - News and Statistics",
-      "summary": "Sensor Market To 2035: ADAS and Automation Demand Fuels Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGVsb3FQaXFwR1lqUFplOWJtanhtOE91M0JSUGZUYklFQ3NPeklwclVLcUREWUZNVnJaMXYzNU5hUUtXM1BNLVo4NUpjNzRBdlRtbUoxeFNHY29GNjhoWXJ5dXpCbkhwYk9ZWjJES0tiNWhKMmFpaEZpOUtsM0xkMHJjTUtZR2tRbTg4YzhfTFZwQlQ0aW50RGRKRlBZNUtLVnNsUWxFMFpPZmlKMnJDNTBGOW5lQQ?oc=5",
-      "category": "设备监测",
-      "date": "2026-11-11T12:51:04+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "What Is Driving Electric Motor Demand, and Could a Rare Earth Squeeze Slow It?",
-      "summary": "What Is Driving Electric Motor Demand, and Could a Rare Earth Squeeze Slow It? Kings Research",
-      "source": "Kings Research",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGZzRjRFN3eVNGckM5Nzcyc3E3NlZsaWo1VFU3UmJwbXFEc0FveDU4a3lIWkc1QlhZWThzRU1CRGtjOUtXUlNWWlF0bXhhSXpOUGNOSEMxOWtaM3l4NDQyNHBYTUNPcTN2SWhISldqQm1DQ184SzliQ0I5Xy1IZw?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-11T09:09:24+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "title": "AI Funding + M&A Tracker",
+      "summary": "AI Funding + M&A Tracker The Fashion Law",
+      "source": "The Fashion Law",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTgyVXpsekZFRDAxcGFLdjY1VW82SmwtSVpfbW5aT05meTFDUzN0ekpKOTg3ZDdVZUdVWEE5dm1VdE9ZZmJOSlF4RUdIdjBJamhKTndJNmVHZm1qbUtLckpqZHBpUmZKSzhNZktkTXlsUEYxV3FLRWViX1RzRTZkWUFGLUZiV2JNQ0sxZENiZ2hIc3ZRQVE?oc=5",
+      "category": "创业信号",
+      "date": "2026-11-11T08:00:00+00:00",
+      "image": "assets/startup.svg",
+      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
+      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -291,114 +393,12 @@
       }
     },
     {
-      "title": "Verizon Business Completes Multisite Private 5G Deployment at Thames Freeport",
-      "summary": "Verizon Business Completes Multisite Private 5G Deployment at Thames Freeport The Fast Mode",
-      "source": "The Fast Mode",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzBlS0xpc1ZhSVZvN3FhX3ZxZkVYZTlUWUtYQmpfQ1FkRkdOUnNUSXp5a1FmV0lWOU91eVpMa3lkU1ZsejJpcnVTYm15cUNxOVllbzVKcGhFTzJPeU1EMERETldtN20wVFdNZmM2OVlaVU94ZEJDZEFIRnBrN241OUZWOVdMNWxHNFVnN1ptRjZzZzlrd3Z0VTRKbDcwWi1uZHlXOXBPdEpjZnhlTExjXzV3aXlKMkQtdjAyRF92Xzl5V3pPbEJkTkU0aldFcWF5ZHc?oc=5",
-      "category": "设备监测",
-      "date": "2026-11-10T23:12:47+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Industry Insights: Google DeepMind Releases Gemini Robotics 2.5",
-      "summary": "Industry Insights: Google DeepMind Releases Gemini Robotics 2.5 A3 Association for Advancing Automation",
-      "source": "A3 Association for Advancing Automation",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMHE1Q2REUU9RSzRmUVRKUF83MmVBaVgwUlVKakRJZ0xMdUR5eERwSlMzMFpqMkRHdW11NnY3b29UVUhQWFh4MkhLOEk5YklDbUJLVXF4Q3F4aDhsakdGZDRqN1g5RWV0VUNVRW5NeXdOcXdXUkI0djRBQ3o4cE1Qam80RVEzTExWamFTZno3SkxvMmM4T1RTSnZ3?oc=5",
+      "title": "SPECIAL FEATURE | Aye robots: The exciting new world of physical AI!",
+      "summary": "SPECIAL FEATURE | Aye robots: The exciting new world of physical AI! W.Media",
+      "source": "W.Media",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVVCUVZKOWd2NjVBSUhFZzBLek1TWE1pZGJBTTU3djJKeXlvY081YzBqQi1zOEdXLWhORWRWR1NfdWs4eF9XY0tWSlAtU0RtRmhZMm02MjRVT0Fzam1QLV9VUW9IT3lLeU1mNTdya1dDSmxWVmF3aVFvWDhieGdKVUYtNmp6Mi1h?oc=5",
       "category": "机器人",
-      "date": "2026-11-10T19:29:04+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Why predictive maintenance matters more as factories add robots",
-      "summary": "Why predictive maintenance matters more as factories add robots The Robot Report",
-      "source": "The Robot Report",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFR0Z09ERUY3WUFld2ZwWVBUNi10MFM1bENrV1hfRGo3Z0V1dC12bWI1RER1MEFEY1FkNHNWZWQ0QVlVd1pWMi1ZTlQyWVM2eWVMNDB3ZHRkMUZPdDNxM3BkcWlPdlFzSGotN3lTT0pFUnptLWJWd3hCUl9YQnJJRWhVR0g1MkU5cWd3QTJfdVdrVU5ab2FUc3o2bw?oc=5",
-      "category": "设备监测",
-      "date": "2026-11-10T16:17:05+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
-      "summary": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old Crunchbase News",
-      "source": "Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXB1OFBZQ0ltM01ubjhzVUswN2VHa0JKT1RETDVaR0hBQUhLT1BZLUlSNEtWbU1wS2d4MU5JRTdKOG9FZU10UlZsalNjZzBIaGdrTU04T0tPa0Z3bzhQU1NDZ2h1NVNleGZJRXJ0OGo0a2cyVXJwSXVkXzgyR1JfLWtQRDNvcUN2MWRjN2ZrRVF5LTBjNmtmcQ?oc=5",
-      "category": "创业信号",
-      "date": "2026-11-10T12:00:34+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "NVIDIA GTC Berlin 2026: The Emergence of an AI-Native Industrial Stack",
-      "summary": "NVIDIA GTC Berlin 2026: The Emergence of an AI-Native Industrial Stack ARC Advisory Group",
-      "source": "ARC Advisory Group",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2R4WkZ0ZE9IMXlEXzlhMEtnVWIwaW1Tcl9IZXItaWR1MHBLa1BPUjV0Wnh3ZHBCQzBsZGVyUGF0SFo3dm1GSDVSRXFBOXFrOER3ZWdhWjNDMDVpTEF6NmVzMVBscTNBWXkxUnFwcjNjc2tsN19CYVpETTJYRjktYWxZMlF1WVNvTWJRWDJMV0RpS3RqeFdaLVdjdjJISFdVRC05VFllVjdPZw?oc=5",
-      "category": "工业 AI",
-      "date": "2026-11-10T11:34:52+00:00",
-      "image": "assets/ai.svg",
-      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "AI’s Efficiency Challenge For The Semiconductor Industry",
-      "summary": "AI’s Efficiency Challenge For The Semiconductor Industry Semiconductor Engineering",
-      "source": "Semiconductor Engineering",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1NSYVgyVDJTRmxNZWJzX2wyNFJTamp2eHcyUWhtYjFDSHdLN3lfREJIZUd1VjdmeWNjTnoxZ25rZ1RfNmZGZTZsSVZjS3dueXBScGdpMUl3OTc4MGI4YXl4SGpvLWlBM3ZPYWRDWmFxQ0dqbmJTTWxMMldkcjFBNUZkbVdxT1pIa0JzdA?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-10T10:52:46+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "CIIF 2027 Set for Shanghai as Global Exhibitions Connect Robotics and Manufacturing Systems",
-      "summary": "CIIF 2027 Set for Shanghai as Global Exhibitions Connect Robotics and Manufacturing Systems FinancialContent",
-      "source": "FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMVVESWdpLWNXcHdVSlZaYjFwQ3BmVmxoUHk2dFdPVE9nZ0FmdW5NWTZ3TFp0STJDWV8zZ2JUYXlkRkFLZVE3bG9BTldKRDFkdE1aLTItOVZ4SnBJVjNUMzl5Z2FUMl9YdnhoNE1nMVY4WnJOWUtWZExab21Uc3RJZjNEOURONjB3TWNNY0dxQi0zRlJYUG9sQUhCRWd1RU9YNTlhUjRFcXEzRC11TjJoMTAwc3FHZ0lNOHFwcldjSEhzVjE2OURESUJBa3ZoQjZYNzFwZXBRMl9YSW1xcENuVWd1YlBIQlEtemZFb3RtTQ?oc=5",
-      "category": "机器人",
-      "date": "2026-11-10T10:36:00+00:00",
+      "date": "2026-11-11T07:16:00+00:00",
       "image": "assets/robot.svg",
       "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
       "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
