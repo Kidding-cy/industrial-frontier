@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:33:33Z",
+  "updated_at": "2026-11-16T06:30:37Z",
   "articles": [
     {
       "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
@@ -7,10 +7,78 @@
       "source": "Britannica",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
       "category": "创业信号",
-      "date": "2026-11-14T21:27:20+00:00",
+      "date": "2026-11-15T19:54:00+00:00",
       "image": "assets/startup.svg",
       "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
       "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems",
+      "summary": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات",
+      "source": "الهيئة العامة للاستعلامات",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZVJ5bXM0cngwWlVkZzJDejZtYWNzLVN4NG5hamZweWhZNncwUGVteVJlNUJfZHNmQ29hY2RQdXB5Wi1fcUxxeWdDWWMzWFdNbHN4R2xjc3lzNVV2YmJvdkxiSjY3ekhuaHJ6NjZDSWJDSm1zZE9XQXlUd2oxdGNrbk1McTZOWThIOTVSZVg0MG9QakpvMG5VYUxBTHhMTTVpWGtvZUN3WXZEUHc5Tnk4OTNZUV94NDZpa0JSM0o4V0FuYktFOW13cmZkbWNrRDg?oc=5",
+      "category": "机器人",
+      "date": "2026-11-15T15:59:26+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "About the Collection | Automated fault detection through image analysis",
+      "summary": "About the Collection | Automated fault detection through image analysis Nature",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yenUtVmdrSThHX3NQa3JsZllEWlZzb3lLMlZLOVVjcWFDOHVOV3JmVGFnZUgwV3RQd2xHd2NMSkVYcC1SNjFHdTgtSmxqQWFPbC1DWUgtaHQySGdNQk1VaERFc3BtRFM1bnVBQWFWRXJCMGZJ?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-15T09:16:16+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Modbus Interfaces Market To 2035: Industrial Automation Retrofits Drive Growth - News and Statistics",
+      "summary": "Modbus Interfaces Market To 2035: Industrial Automation Retrofits Drive Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXppNE9TNFNhX1lmcU1kZnpfM3QxNEhRSTNBUnVOdUpOdUNJOXFNU2ItckVFN1JqdHZKeDg0TTF2NlhkbmdTbmJoWW1Id1Azd2JSV2NEd0JVUVc5cmxlLVRfbjZuQUctWDBtY1ZyZHlwTHR0MVJzNEFWZU9lOS1nQTljdXJFNUxVOXFJVnd3X1dqaFczUEJQZ3AyZE9rU2lNSVYxMHR1cU1Gd2NUelNtNG1SMnJiTENBUVJ1aA?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-14T13:31:04+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Frictionless Remote Monitoring Devices Market in China: Size, Trends and Forecast to 2035",
+      "summary": "Frictionless Remote Monitoring Devices Market in China: Size, Trends and Forecast to 2035 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNam10RmlPeVYtdy1rdHZ6dHRfUGxvSHZxZWZXQ3Q4MDNBMFNnYXpRMXFQUm9td0VwS1JXRTlodTNjaTlGTjhpSnE0U1RUMG5MZXdQSm9JcVIyQ1dJMFlvTEV4d0pGUzNCemJPOXZLOXBNTTU0eW1ITWFDZUNNbHBnRHhQd1A4U1hxNHJST3pINWY2NGJJbEpVYXp6a1FFTlE1ZEJxSGFzdEJySl9oZmZzdHQtLXhZcmlVWER5TXdIYlhnbU0?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-14T06:35:51+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -87,40 +155,6 @@
       }
     },
     {
-      "title": "Mass Flow Sensors Market Forecast to 2035: Growth Accelerates on Semiconductor and Energy Efficiency Demand",
-      "summary": "Mass Flow Sensors Market Forecast to 2035: Growth Accelerates on Semiconductor and Energy Efficiency Demand IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWFDeExBNFJlcWc0dl83TE9WLURqdm11VC1fUFRsTWF1SF9BbmdtbE82OTVvQXdSOWtjSGFRekUzeEh0R1lsQV9mS1I5dVIzUDJaZmhERHBIUlFOVWUzTm0zWHM1cGd5S0RGeGVYN0ItekpKUGZuVHVEZWc3RFF4ZEFPZVhJSlJyUVNHWlJHTkQ3bmQ0aUNXeFR4Zk9DMmxhNE5TRUFpUVpRYTBvaWx4X0ZMZUh4U1NIcXdRR1A3OUY3NDBjSjRUZzJzWVpjaHlheWc?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-13T20:41:06+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Vibration Testers Market To 2035: EV and Aerospace Reliability Testing Drive Growth - News and Statistics",
-      "summary": "Vibration Testers Market To 2035: EV and Aerospace Reliability Testing Drive Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGdmWlNQNmVnbkVLUmV5dUdMZHlsZUZRVUcyWWgxWHM3cmtZVkdScGRwTnlqTGdlRFc5R3FXWUk0QzNhcFh3c1M4VEM5Y3NBbXdQMllBb1hMcFc2S2ZaellZWDhod2Iybk40V3hMUDZiSEJxVHhWU0pVSW1xUDNMSUFZWFFuWlBnYm1iZVQ5VXZtbEtuS0NxQUVIcmRlc0wzdkdJNW8wSjJobWJVQWFkRmdHMUhQcUdDc0FVYjRVZVBHcFY4SUVUQmdoQXQ3TmhxbGZONk41Skd3TzNJaFlF?oc=5",
-      "category": "设备监测",
-      "date": "2026-11-13T19:46:05+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "From Sensor Alert To Work Order: How CMMS Closes The Insight-To-Action Gap In Predictive Maintenance",
       "summary": "From Sensor Alert To Work Order: How CMMS Closes The Insight-To-Action Gap In Predictive Maintenance Automation World",
       "source": "Automation World",
@@ -130,6 +164,23 @@
       "image": "assets/monitor.svg",
       "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
       "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence",
+      "summary": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence USA Today",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1FYR19BZFlOanNvS1F2REZNcEI2bm9UeGRWV1BGT0Z0UmNuYUtqeFhjd2I1d1dyWXpUd09hZXo2WEUyUmlLSU9oM0tMWlVKbzZyRDhZc3VWZ2tOa2dVbTk5dFlkZHZhSExxVG1ZX2dTMVZQSDJzT0J6MVhFdkUyRjVIV3hRYVV4V0tsbEpYNVRURDU0RmVYdDNSUUpHNFVpVXVvR2xHNmdsU0hwY0szMGp0UWs0bk5KTlpKVXBZcWE0V0hUck40SE93?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-13T17:38:35+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -155,15 +206,15 @@
       }
     },
     {
-      "title": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence",
-      "summary": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdWw5MTBBeGdUeEhEbFUzcnNQaTBIeFJpWXBmLVdsUWkzSmpPcTB3WXR4cld1TzZwVEJJNjdmVF9LSldxZDIzVlROeVRZbER3ZU0yZTF6YThiN3h3X0MxbEpFck53OS1mX1pmSkN2bkNGcjE5Z1J3RGZsLWVJa1BSZ3drMnRBbDIxYkF6OGNwcmVWcFgwb050MzZlbUR2cTh3VkxpQm9OVWpNbm9Fd2NmeEEyeGdZMTFUbl9FMXpkeGhMYVc1ZTEwNXRnLUNrMS10VTA1Wg?oc=5",
-      "category": "工业 AI",
-      "date": "2026-11-13T16:30:00+00:00",
-      "image": "assets/ai.svg",
-      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "title": "Optimized Industrial Scheduling Cuts Bakery Energy Use and Steel Mill Electricity Costs",
+      "summary": "Optimized Industrial Scheduling Cuts Bakery Energy Use and Steel Mill Electricity Costs Bioengineer.org",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDRaODRSaW15Y0duMFMyZTZoYzU3akNuS044YUpwaGJwOTRSRWxUYnRHQ0hyY2F0cDRlaXBXb2REcUVqNnpWUHZaUmdGcE5zQlc2SHJTZnp5aE16M2YyQ09PTGRTLWhsV3RPd21fWWF3bGhpYnZmanF5RGpvaVFSWHpac0N0V2R3UGt6RGlwbmd6dzNtUExiV1M0QlE0c2I5NTN6ejg0QUk0ejRhbTdwRjFn?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-13T16:15:24+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -181,23 +232,6 @@
       "image": "assets/robot.svg",
       "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
       "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "5 Real-World Examples of Maintenance Across Industries",
-      "summary": "5 Real-World Examples of Maintenance Across Industries Small Business Trends",
-      "source": "Small Business Trends",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zNVVvTEJmZjVRLWM1M25XSWdoWThvZk1OT0lkaFIzd1hkV1pNOEZ4eDdqWUhYbXhxaWFWLTc1aWpBbUVsRVlBcktFZ1VYbnNIc2Uxbm52WGpJSlUx?oc=5",
-      "category": "设备监测",
-      "date": "2026-11-12T22:31:00+00:00",
-      "image": "assets/monitor.svg",
-      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
-      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -257,23 +291,6 @@
       }
     },
     {
-      "title": "How Siemens, Emerson, IDEC and Weidmuller approach SCADA retrofits",
-      "summary": "How Siemens, Emerson, IDEC and Weidmuller approach SCADA retrofits MarketScale",
-      "source": "MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGZCVEthM2VaR0kzS0hNTjFRbk9LRlFGLTFRUmhELWk1NlBTWGhPbjRfYU5DU1paLTFra3lmRk1NWGxlSlhwRVhEVmtnSlpfZXRROXRqR0hURUZaRVBEcjlCbHRwV3hEOFhrLThuLWNNWXM4NzBQSHFNT25UY3FTX3lRVWx6VzRLN0tmX2xKUlpaSWRmbjE5dHR1R2YtTUM5S3E2TmloajNsc2hhV2VNdjZZMEl1RWpMeDdYUVNmTDJMMm45WXUxQWZUZk8?oc=5",
-      "category": "数据与软件",
-      "date": "2026-11-12T11:55:00+00:00",
-      "image": "assets/data.svg",
-      "opportunity": "可验证工厂数据连接、自动报表和系统间集成需求。",
-      "image_alt": "新闻来源图片或数据与软件类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "Social Robotics in Long-Term Care",
       "summary": "Social Robotics in Long-Term Care IFR International Federation of Robotics",
       "source": "IFR International Federation of Robotics",
@@ -283,57 +300,6 @@
       "image": "assets/robot.svg",
       "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
       "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Industrial Seals Market To 2035: MRO Demand and Efficiency Mandates Drive Growth - News and Statistics",
-      "summary": "Industrial Seals Market To 2035: MRO Demand and Efficiency Mandates Drive Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEltYUpGWVhtcWFmeVZ4WGdqeldreVlCZm9NZ21KUWdLVXBsN1dDYVY3TFJER2xGdmJIX3I4VzJrby1wQlF2ejYzRG9YZ29VbGdTWG1JN3lWT3Q0cG5WNVFNOTFGakQyMkg1Q0pRYnJlYV92UU5MdElfZ0tyUHZQcjZJc2t1d0duZHBxYXhvQXdodTh4OEhSRE9Fd3UyVTJiWHFfOEo1Y1A4OXk4UmNwVktNNXJjaUtaN0ptSGM2dU1JZ2MwZ01DYQ?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-11T21:56:03+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Quick Take: Industrial AI's Next Challenge Is Deciding Who Makes The Decision?",
-      "summary": "Quick Take: Industrial AI's Next Challenge Is Deciding Who Makes The Decision? Automation World",
-      "source": "Automation World",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzB2MENtRW9kQ2ZnX0pWbUdlcVRJMW9ieTZLUnVITWdKcE5GUVVSM2hlOEZCR25OMjdXSW8wM25ra29VVlBxeGVQMTY4N3Y1RnhIa2xIRnRQVFBBMUZVVWc4X3dwLTVRblNIcWRtaG9KQUFVQkxBWkx3T0JSeVQ2cUlfbFhvak1seGVQTUwwZWRualFRZEtySTFiczRORXctUzgyX0daeXdDbHFEcWpVYmdLendNdEh1SFhiaTVyOA?oc=5",
-      "category": "工业 AI",
-      "date": "2026-11-11T21:03:22+00:00",
-      "image": "assets/ai.svg",
-      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "GigaDevice launches its new generation of GD32H7 microcontrollers",
-      "summary": "GigaDevice launches its new generation of GD32H7 microcontrollers Inspenet",
-      "source": "Inspenet",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xbkZrekU0V0l1QXpzMmF3bjc2RDVlQWxxa1BHT0I0S0R4ZjQyVjRVTVZ3TUVBNUo1Q0VDQUpFRDFNaXYzWTF6NjlmNm5uMXdlQ0k3NkI3cXpFMkUwNWNYdGdXUUJpcHRENEF4OFZIN0hMM0xRQmVGSTN0NWk0Zw?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-11T18:36:59+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -393,6 +359,23 @@
       }
     },
     {
+      "title": "Boiler Combustion Control and Monitoring System",
+      "summary": "Boiler Combustion Control and Monitoring System Department of Energy (.gov)",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOEh5Y09sUEF5Wlp4WFFTc3NPc20tc1M4VjJha2ZXajcwbGZKc3plNVB2V3kycUdJVDV6MEVBc3dLS0xPZTJic29NVTNPeUZhaFBnbWc1Tl91amp6YVVQQTJTeWZQdkhJUkh6V1dHME41MjBNQlJyUzVkQ1pQcm1zNEQtbkRHT2c?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-10T18:13:51+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
       "title": "Why predictive maintenance matters more as factories add robots",
       "summary": "Why predictive maintenance matters more as factories add robots The Robot Report",
       "source": "The Robot Report",
@@ -402,6 +385,23 @@
       "image": "assets/monitor.svg",
       "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
       "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Announcing the 2026 LEAP Awards in industrial automation",
+      "summary": "Announcing the 2026 LEAP Awards in industrial automation Design World",
+      "source": "Design World",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3dlWmJ3a0ZvcGFpV1pvTEJ6WnB2d1FuSkhnYkFWZkhSTTZCek0xbVJaUGRqcjE3S2dabWcyanZEWjVyWVBTdl85YW5DcDBfM0xKVEhSQ25wb3NoZUxOVjlPWkxlbW9FcGh6ZHlfRzRxR0l1WVVDYUpKeFBJdmJYVjF3YVV5N3NPWFNKMWlsdFBkTUptRGc?oc=5",
+      "category": "机器人",
+      "date": "2026-11-10T15:51:57+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
