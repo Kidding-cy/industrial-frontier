@@ -1,6 +1,108 @@
 {
-  "updated_at": "2026-11-20T07:16:15Z",
+  "updated_at": "2026-11-21T07:08:53Z",
   "articles": [
+    {
+      "title": "Predictive Maintenance at Scale with Treon Flow and AWS IoT Core",
+      "summary": "Predictive Maintenance at Scale with Treon Flow and AWS IoT Core Amazon Web Services",
+      "source": "Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTVaX3JpcUhNQ09rYUlXbkp0RWpmTElEUEpMUGJDb2R6b1Zkem9RdUJDWXVVdk5CLTBLVmFMMmlBWGJMRHB5dS05bmhTVjZ1MUJYd3NBYXU2bWUzUEhJQk0ydmdXdGE3RFhfc296VlR0dmlWaTJhSUdXdmhHSFZzTmFpMVpaSWdsUEhNcEVZenFMbXBtVFQwWjZmV2EyRHc?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-21T00:08:28+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Who Controls the Factory Data Could Shape U.S.-Korea AI Collaboration",
+      "summary": "Who Controls the Factory Data Could Shape U.S.-Korea AI Collaboration Grit Daily News",
+      "source": "Grit Daily News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JZ0dKcnJMMVlaR3ZyUGNQV29kUG02c2ktbFFLTGFJZ1ZsRVVWMlFtNnF0SS12WlhmTWR6QTZVY2FiX1YxR1gxemhQOGg0dk1qbXRCaG93ZmQ5WjBGX2l1NWxIZzFEZDVtZ2phY3hPejJ2dw?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-20T17:55:42+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Smart Grid Integration to Predict Transformer Failures",
+      "summary": "Smart Grid Integration to Predict Transformer Failures Mexico Business News",
+      "source": "Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXZjT3dqeV9iajRDcDBJeFBEQWQyVHF1dnNCN3lFQmpwX08tUFJBenN4NGNBNU9fOUg1bU5JOVFXcnczcmEtNFk1U1dZdWJxSmNycWN6RUFud3ktSkVWVlExcUE3VTYyb2laRFFUekowdk16ejFEQVF3eGxlM20wR0xmSUpyU3RhZHB6cFRTZnJjUGROektJOUd0a0dvdUFo?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-20T16:13:18+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "The Intelligent Factory of the Future: Why Has This Taken So Long?",
+      "summary": "The Intelligent Factory of the Future: Why Has This Taken So Long? Automation.com",
+      "source": "Automation.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlhCdkx6bWxmelEtM0NNSjZIWW52MFZodUVmNWducEtzS2RpY2JtWlVBel80ZDVtcUEybk43RkRpelFVS1R6aUdJWFRJaGhON3FCX2dKYU5rdTZkM01PSlBXcmpOU2pXY29RWTlpeTlYQWtoMm9lenc3cUJrRjQyVVE5dXJ1X0k3Yy1PeklPSmhlcXhzcTJ5ellnQQ?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-20T16:11:05+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights KLA and SiTime",
+      "summary": "Zacks Industry Outlook Highlights KLA and SiTime TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzJ6czBrM2pnYWt4RFVoUUFFMUtDYnFmUUVycWtITzZjWHphZ3FRWXZRS090Zm5UZVRHWjc4LXhIQkhjeDJjMnJIak9NTU1iWk9TUkQ2YWNxcC1oYkFoV2ZTUzRycnVLNjM2VWlJTEd2ZTRiR19pX2JXdUV5TWFReDFLSWx2UEJnRWhIUzlfSGNaQ2pMSkFFbUwtOFQ5Sk5wRXlZT2pTRQ?oc=5",
+      "category": "机器人",
+      "date": "2026-11-20T13:16:00+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Energy efficiency becomes the chemical industry’s new edge",
+      "summary": "Energy efficiency becomes the chemical industry’s new edge Indiatimes",
+      "source": "Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOajBKc3A2ZVJYTjktc0RTNW1ERkpzcU9zdWdLZmI5STZNY3Q5VS1CdXZyMnFhaUZaTWhHeE1ORVpKejFjTURfeFBjbVJ4Uld2Wk5fVTg0X3BZczc4TGxkWGNBd0VYWmlXWmp4cWR3MklRaElLcno2ZjRvbzE0NnNZNVBjb056NU1EMDVBYWJZZmRiSm9pa2xGUVh0M3dMQ05JQ1Z0OUF5dFhLSVJ0QW1VbS1nZHV6aTllTFJrRXJCZC13dXRIZmlNQ0U3bTllYU1BOWJrSGJ5VTBmTzRGUkd1eFJBMlN1TllYZUtpeHRvRFdmQmdqTXJwemZyQlZOSGg2QlFGeFp5QTF1MldGYl9XS1JjVmllUVpNWEMwY2VKVdIB7gFBVV95cUxQMGdkeFd6UEltcHhqR0lIeFZEb0txSDAzT3FDekphR3BVVGNoNkRYTXVGcjdLR2VVbTBRQXFqcHVCSGZKSTgwQ0tCSkI3RURpUnE1QVNsUjUtVy04YW1obGpLd3lqaEJvUi1GQnJEMnRTd1RJQnh0ME1uQzJ0a0Y2b3VxX3prZ2JGSDVIV2ZjMW9FLTlkQzlsZFJ1VVBZYnNJRzdqcm1RVEFNMm1BcVJaMXdzSExaSHVsMzE2QUlzeHMyM1pON2RxZ2VaRmo0WjZKNXJzRFN2Yk05TUVSSTdLTW8zRksyYTJzMGlmM2hB?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-20T11:26:26+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
     {
       "title": "Industrial AI Moves Toward Scaled Deployment: AVEVA Connects Engineering and Operations with a Strong Data Foundation",
       "summary": "Industrial AI Moves Toward Scaled Deployment: AVEVA Connects Engineering and Operations with a Strong Data Foundation The Malaysian Reserve",
@@ -53,23 +155,6 @@
       }
     },
     {
-      "title": "Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets",
-      "summary": "Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets EE Times Asia",
-      "source": "EE Times Asia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVRmN2RKdnJxTXFwamxPMWpMYkhwbkdPV2NFQ0xpNmJHN2RiNi1VNUN2c0NHV0VBZjh2X2ZqS1BLSFVVR0I2ektKWjlVRWZmeVAxbnAyQUdEX3RhdEdMWFdjd0VGVGlhem9tZW4zRzNiSVFrNlpxXzZWaEVTRzQ4QVBwMXF0QkFjb1hoVVFick5nZmxJSVQ0cTJPV0E3eHp0VWQxVmVnV2NXWXVuN0dN?oc=5",
-      "category": "机器人",
-      "date": "2026-11-19T15:22:30+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "Smart Maintenance Market to Reach $20.4 Billion by 2032 as AI Adoption Grows",
       "summary": "Smart Maintenance Market to Reach $20.4 Billion by 2032 as AI Adoption Grows IoT Business News",
       "source": "IoT Business News",
@@ -104,23 +189,6 @@
       }
     },
     {
-      "title": "Most Innovative AI Product of the Year 2026: Meet the Startup winners shaping India’s AI innovation landsc",
-      "summary": "Most Innovative AI Product of the Year 2026: Meet the Startup winners shaping India’s AI innovation landsc The Economic Times",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEw2dHlId1hvMDdsMF9XU2pqVlhQc1VnMWlCT3NNaGxQeEFKMnN1NlpJYk5wUDI5YnRueVM3dUxxbGszcWRNQzJyTzFiUTBpR3JCWlpBb21hWHBPck1fOEF4X0lXbk5WX19URHVyeUtWZ0p0RWVwMTBrbWZPcGE0OGJTODM1X09mRmVmWVl2NkVOb1dGbzdHaW8ydUFmeFUzNW5RMTVjRUVHckZycGdOWWJMV3ZjeVFkaVliSEtiSjlWVG80ejMtN3VyWFNDQ3l2SGRIRjhfN0tjNkFsalVVTFZ3OFhJd2VjcWVZb1R6RTA2SVljVnViXzZvRUhUSlot0gGGAkFVX3lxTE4xZGFyenNpNWE3Y1c1T0lwVXNBaGIzcGxidnFpa1hRV3pLMndsdjJIS1E5Q3ctbzZLN1djVE5IYnRwZDRrVlZGaEQyQ1l1djcyOVVqdHcyU0wzUnpvQjgzT3RaTXM2ZW9DRjN0Wi1BR0NMZlJJVlp1SXZTRExoMVU0REhjY3J5SFBnbW1HRWxzSHJGbjUxQThocDlEMnlaTEpodmhzRW9WdXRaQk9CWmw5LWtlY1V6Ym45QjBIeTlkTDA5dldzWDBFTFYxSTE0V0hSOUQ3Mno3UVJDSW1UdFJaaWVJdzBuUS1VZmJ1WVB1QzhHa20yV090SzF2MTBBS1Y3cjg0UUE?oc=5",
-      "category": "创业信号",
-      "date": "2026-11-19T14:23:25+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "AI Workforce Transformation: 3 Ways Industrial Leaders Win",
       "summary": "AI Workforce Transformation: 3 Ways Industrial Leaders Win World Economic Forum",
       "source": "World Economic Forum",
@@ -144,23 +212,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXZ1dFUVh6S1ZHdFBIaER1OEVuNW5UUEJBZ01VV1BYU3g1U1Q2anZrNzd5ZTV2WmhRb1ZtaHJ3cEl4Rk5KX3JhbmNTMnZvUlFZOTRJMkFVWjZ4dVlLRXN3OG1n?oc=5",
       "category": "工业 AI",
       "date": "2026-11-19T09:46:00+00:00",
-      "image": "assets/ai.svg",
-      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Korea, Germany seek closer industrial AI ties at Herald forum",
-      "summary": "Korea, Germany seek closer industrial AI ties at Herald forum The Korea Herald",
-      "source": "The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KLWJRUE5xS2VNVzhRcUo5c2JqeXc5TTdQbHFQWmhZYjZKV0VtcXpqVEZoX0hFVFFYOENMU3BDNFJZVThFOE1icTA1bEo3STN5WkE5Tm9WRQ?oc=5",
-      "category": "工业 AI",
-      "date": "2026-11-19T05:36:29+00:00",
       "image": "assets/ai.svg",
       "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
       "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
@@ -223,15 +274,15 @@
       }
     },
     {
-      "title": "Can industrial AI give Germany a competitive edge?",
-      "summary": "Can industrial AI give Germany a competitive edge? DW.com",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5ndHBnNHJobk1tWFZ2QmNCUTBOQzc3X21rbmVweUNMOVQybWxDUzVFNkpTUG5YclFETlowZHN0WU8td2tGQ0tMX2JjOHhpNTZva2Zwd2ZTMmRqTFJNUGZWSklRLUhoR3VDMHFQUFpDZkE3Q0JVWVVEMlBzbW1GTUJhVDROYWxBWVc0SDdDUQ?oc=5",
-      "category": "工业 AI",
-      "date": "2026-11-18T15:55:26+00:00",
-      "image": "assets/ai.svg",
-      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
-      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
+      "title": "Energy Department Recognizes Clarios Meadowbrook Lithium Ion for 50001 Ready Achievement",
+      "summary": "Energy Department Recognizes Clarios Meadowbrook Lithium Ion for 50001 Ready Achievement Department of Energy (.gov)",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGpaajNOWTZ1a2xWV2Y1M2JWOUI3U2xTYmdpclp4eHFEa1dsYWh4bVpDQmRRSWozbjluU2VXUFJiLW5rN1ZtTU9xVVlfTXFraFdfNm9TRUhiMXRob0gyQXktZnhXM0RDVmpOQ3ZySEhFUG9WNXBjUkZuMHk0Q0RUZE1WUUN0MDF6Yk1LNlh1aHRQLWh0RF9JYWVrRTV3STA2U3M5ZHF1RWVid0ZyUFI5a1RYRQ?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-18T16:18:37+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -240,15 +291,15 @@
       }
     },
     {
-      "title": "ProMinent's Takeaways from BrauBeviale 2026",
-      "summary": "ProMinent's Takeaways from BrauBeviale 2026 Wine Industry Advisor",
-      "source": "Wine Industry Advisor",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlhuWmxJeWJNcTQ0eDNmay1rTVlfNmZNNXYxdVloU3UyUURRSFB4Z252WWNaZUZzdGlhMmFNcnIySmh1TVVIcjR3dWpiUWQ4dFU1SV8tekZFMDZpYy1PcTd6R0FJT0xWemswZkhnN2xTeXQwaGhhRk42S3Zadlp4UHNRdl9fWXh2aFlndXFnQVdpRUJmeUgtR3MxMjBNUl8yaXpr?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-18T15:50:05+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "title": "Can industrial AI give Germany a competitive edge?",
+      "summary": "Can industrial AI give Germany a competitive edge? DW.com",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5ndHBnNHJobk1tWFZ2QmNCUTBOQzc3X21rbmVweUNMOVQybWxDUzVFNkpTUG5YclFETlowZHN0WU8td2tGQ0tMX2JjOHhpNTZva2Zwd2ZTMmRqTFJNUGZWSklRLUhoR3VDMHFQUFpDZkE3Q0JVWVVEMlBzbW1GTUJhVDROYWxBWVc0SDdDUQ?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-18T15:43:10+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -308,29 +359,12 @@
       }
     },
     {
-      "title": "Thermal Anemometers Market Forecast to 2035: Growth Driven by HVAC Efficiency and Industrial Automation",
-      "summary": "Thermal Anemometers Market Forecast to 2035: Growth Driven by HVAC Efficiency and Industrial Automation IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbE5MRzZ3YjhRZS0wYlN6cHRNLUFWeTZrcEVScHpITVZmX0dfaHpweEpQV1EzT2RyaGxfM25QbW5PR2pZcWVHdkRVTzRiMUoxMlpSZVFJWDF2ZFR3RE80TkY5aUVSVUV2azJ3TEVqVm9VRWd6WHNrZHBWdHR2bEFQYU8tTFktRHREbHRqYlg1aVZOSUI3SGhjT0pYZGFkb3VxbHdJdDQzajJPUjM2X094U2EwRmJfOV93a0ZVeWplclJoQllOS0FYV2MxZ2Y?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-18T10:11:04+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Coimbatore-based industrial AI startup CountAI raises Rs 10 crore from Equirus InnovateX",
-      "summary": "Coimbatore-based industrial AI startup CountAI raises Rs 10 crore from Equirus InnovateX Indian Startup News",
-      "source": "Indian Startup News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2Z3T211c200SnB2Rzk2bXhqbHpaajRubE5ZMVBuWnZjamxEZUZPUFJiNkEwNlNoRzhOZVhPVzVxZ3hhZ1VBUE05NUpPUE5PVWwyV3dJZE5ibVRRbnhibFZKa05HejhtWWVBWHQtU3ZpbzVYSUh4QmwyVWNhczVfV2QteHJpNGpSWWRNaWRBajdrbmh2RURoaVFmcU0xMGl3ajRKS3pNcXNrWEppY1JYMWVoT2NHaG9IZXN3aUpER1pfT1d4TEljTHlEcVBUT0hw0gHQAUFVX3lxTFBvZndPbXVzbTRKcHZHOTZteGpselpqNG5sTlkxUG5admNqbERlRk9QUmI2QTA2U2hHOE5lWE9XNXFneGFnVUFQTTk1Sk9QTk9VbDJXd0lkTmJtVFFueGJsVkprTkd6OG1ZZUFYdC1TdmlvNVhJSHhCbDJVY2FzNV9XZC14cmk0alJZZE1pZEFqN2tuaHZFRGhpUWZxTTEwaXdqNEpLek1xc2tYSmljUlgxZWhPY0dob0hlc3dpSkRHWl9PV3hMSWNMeURxUFRPSHA?oc=5",
+      "title": "Full list of Israeli high-tech funding rounds in 2026",
+      "summary": "Full list of Israeli high-tech funding rounds in 2026 calcalistech.com",
+      "source": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hV1d2c0FZTk5qeF85dGpPZE95SndRQVhRRTJySkh6NjJwNklHenJzNHFKSGlodUJndy0ydzBobVYycGt3TUxHZ1k1VC0zcTI5OVdOOXhhN0JOTWpiaTJFeEpvM24yeGs?oc=5",
       "category": "创业信号",
-      "date": "2026-11-18T08:27:57+00:00",
+      "date": "2026-11-18T08:38:00+00:00",
       "image": "assets/startup.svg",
       "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
       "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
@@ -359,46 +393,12 @@
       }
     },
     {
-      "title": "Industrial AI Startup Countai Raises Rs 10 Crore In Seed Funding Led By Equirus Innovatex Fund.",
-      "summary": "Industrial AI Startup Countai Raises Rs 10 Crore In Seed Funding Led By Equirus Innovatex Fund. TRIPURA STAR NEWS",
-      "source": "TRIPURA STAR NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXpnYVp3V1VLa2JTd3hvNm1ueEFTLWFocGFSWDZmdVA1MlpUM0JDajF2VEFJRUZWMC1sb2EyMW0yTWhLUWszNHVrbFB1YXFnVDBWZEJQR0RoV0t5MmNsUk85T2o4WGNxVXo4X0ZyakJCajhLWTVQUHk5ZWpackdDRnl3Mm1tXzE5YXNQMmlMNDZIR1UtQ0cySWtZMmJIeG96MUY1cjdiLUdSLUIzdWZDT0RJUktaUnBVQ19MaFJKUFlwclFrbGc?oc=5",
-      "category": "创业信号",
-      "date": "2026-11-18T07:43:40+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Boston Dynamics’ Atlas humanoid set for first semiconductor factory tests in 2027",
-      "summary": "Boston Dynamics’ Atlas humanoid set for first semiconductor factory tests in 2027 Interesting Engineering",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTFRLVhpZkRpVGd0OF84dkVxOWY0T0JqVkN6N2RabW94bjJ6THRSd2J3OVBTcFBXdnJ2NEprMmJLc3V5MEZrX2czTzJiY0RrTDltWWJDRjR0QlJsMzdvMTNCajlUYVI2WC1mbFBoWWxmSi1pQ014clZZTk1NcWFqRWZCWTlsdG1KbDYtLTZjSFMyLXM?oc=5",
-      "category": "机器人",
-      "date": "2026-11-18T03:33:00+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "How AI-powered optimization can improve fertilizer plant performance",
-      "summary": "How AI-powered optimization can improve fertilizer plant performance Baker Hughes",
-      "source": "Baker Hughes",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGJtSk95V1Myczkzc1IzczZ0ZGNqMHhkUEZ2WkdoaUJWbFFRRzZhSlZSVnVxVl9qd3dDV3p6UXQxeTdhRlR3S2RRemc2eERCTURLWExQbTI4R1pIZHFxbTVPQkZvZENqd0NkelZReWtzNE03eGxLQzUyczM0OEpqajNMcTZhaFFtVHV5NjBMaHViVWI4UFYxOEhtQ0lHQ05pbFFud3BDWGhHVm1l?oc=5",
+      "title": "From efficiency to advantage: Scaling up industrial energy efficiency in Canada",
+      "summary": "From efficiency to advantage: Scaling up industrial energy efficiency in Canada Canada.ca",
+      "source": "Canada.ca",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVWpqRFJOYzNXVkFVY1NpZlBFVDkyN0JNUTA3UWFHaHpzREQ5Q1ZSTl82SlVSV205dDJXanNNZWNuTDAtS2NtdDRBT3RMRkFJWUJtRmZzMWtDa09wRUFHOXcwcGFlVHZyMzlQd1dHa2tLanFVM3JzSlBpS09mbmZCMTBlSHhuaDljZDFiT2M5RV9GYUYwS3lYZnJ6MS1nOXVwZU5Ja19lS2tnbGtVRFlmdzk1YlhwR29RZUVNUlp4WGUwMmpoUkRwTTV6eGdjN0JMMDcwZXpKNTNzNUxSclZURURfM2psYm9nQlBQVXVuaHdfdzVyR1FzUkxLSHNWOTIwdnhvY1hB?oc=5",
       "category": "能源与效率",
-      "date": "2026-11-17T22:27:45+00:00",
+      "date": "2026-11-18T08:00:00+00:00",
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
