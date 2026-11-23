@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-22T06:49:08Z",
+  "updated_at": "2026-11-23T07:39:35Z",
   "articles": [
+    {
+      "title": "Most plants never send technicians' repair notes back to their predictive maintenance models",
+      "summary": "Most plants never send technicians' repair notes back to their predictive maintenance models MarketScale",
+      "source": "MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYnVZcDFzSHNZbV9TRDZ5bVZNN0EyMjVBVUJlNHItTENuN3R4dU5fOERWUmRJUEZsaWdSUmJjR0Z6WHlRVGJOQnZleENXd1IxV00xZU9TR2tXc0VfRnp1bDdzclE4QzFNSkV6U0dJTkNoeXV6NWM5aFNHMW9CX0psdXFpcFpyNTdiV2RFWWlGaWFlbnhtOUdnZ1pnazRweFFOb0J0QWRHUWx6SjNPSU1DVlJWV3dUWEtyYzkteXM1dWQ5RnVJNTdSOWp6aXVHQXQzSXdjdkZWckV0NUxLanc?oc=5",
+      "category": "设备监测",
+      "date": "2026-11-22T22:08:00+00:00",
+      "image": "assets/monitor.svg",
+      "opportunity": "可探索单类设备的异常预警、维护工单和月费服务。",
+      "image_alt": "新闻来源图片或设备监测类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Embedded Smart Cameras Market To 2035: Edge AI in Industrial Automation Fuels Growth - News and Statistics",
+      "summary": "Embedded Smart Cameras Market To 2035: Edge AI in Industrial Automation Fuels Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVG1MRk1MbUdHY19tdmJqU3IzMGRVUGE4UWltdEVMbXhyWDR6Sk8wbi1vZGxHbFNabEtQcXBITm5VS1hWYmtMR2pWSm4yczgwdmlub2Jzd1lialRUWWNuY0VvZE5YNTBSSHdCdUI4TmVYc05tNFEyRmdWT1Rfa0lBdVZ4MEphalYxVkM4a24yVC1fVFJIYzVqN1JXN3M3VDZiSnR0WjA1ZkxKZWdnU2xZS1VmNVVEb1N2RHg0M21qNlpvNGNpLTJhdFNybmZkTVRP?oc=5",
+      "category": "机器人",
+      "date": "2026-11-22T18:21:05+00:00",
+      "image": "assets/robot.svg",
+      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
+      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
+    {
+      "title": "Pump Manufacturing Market To 2035: Water Infrastructure and Efficiency Drive Forward Growth - News and Statistics",
+      "summary": "Pump Manufacturing Market To 2035: Water Infrastructure and Efficiency Drive Forward Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSF92RUtYMmZVSmZrOWlXQXk1SHJGVVZSQVFVSTlod3dub2ZZQk9sb3EybWdadWxjRjBnTWppcVRfRi1WVHcycFdqa3k0UTdyeklPbFB1TWhib0ZPaDh1OTN0THVKMnBFQ2ZYX016OWZfdlg1T094VGc4Q2F3c1FEUGMwcW1NbDFjNDZNdmZhS21LQWFpaWRUZDVLSm5QNDRlVXhvM0pGckdpTzV6cjBwWXlKUENieDVzRGRRNkFTaWlpYWRKalVzT2ZsZnBzczhaa3ZMZUoxMVU?oc=5",
+      "category": "能源与效率",
+      "date": "2026-11-22T11:41:04+00:00",
+      "image": "assets/energy.svg",
+      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
+      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "analysis": {
+        "pain": "根据原文核实客户实际痛点，需进一步访谈",
+        "entry": "从可量化的单场景试点切入，验证需求",
+        "money": "可探索项目实施费与持续服务费，尚未验证",
+        "difficulty": "待调研现场数据接入、业务责任及部署成本"
+      }
+    },
     {
       "title": "Hurun Germany Unicorn Index 2026",
       "summary": "Hurun Germany Unicorn Index 2026 胡润百富",
@@ -36,23 +87,6 @@
       }
     },
     {
-      "title": "Leading Mould Automation Equipment Suppliers Gain Recognition in Global Markets",
-      "summary": "Leading Mould Automation Equipment Suppliers Gain Recognition in Global Markets WBOC TV",
-      "source": "WBOC TV",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbU01b09GUEdZM2pZVVAzQnBJcTlxVFNJOHpPQnR0SVk0OWlXT2xHYnl3OE56ZFFVSXdCUU9uem82SF91aTc2eGNSaWlUNDNjMThJWFo4OWRHUngwcG9MeG52ZHdHZ3lNalBTR2liUXdYcFc4eTJudzliNUZFd0RPa0MwTGFVNzlDOXl5N3VpMVhwa2JOcGFud251dElGNDJCRTY0ZFNkbm5rUHFUa24yMjd3T3VLWnVMLU9JTEtwMVltbkZYbG1wd3BLYTd6R0dLZWJpX09BQ3FSekNJWDJlZ2llN0JSbnBQZVg4cmJjTnd6N2t5NXRkbDBZNFVvNTY3R2JwUGZkcXUwNlhZZ0E?oc=5",
-      "category": "机器人",
-      "date": "2026-11-21T15:50:03+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "Predictive Maintenance at Scale with Treon Flow and AWS IoT Core",
       "summary": "Predictive Maintenance at Scale with Treon Flow and AWS IoT Core Amazon Web Services",
       "source": "Amazon Web Services",
@@ -70,12 +104,12 @@
       }
     },
     {
-      "title": "Who Controls the Factory Data Could Shape U.S.-Korea AI Collaboration",
-      "summary": "Who Controls the Factory Data Could Shape U.S.-Korea AI Collaboration Grit Daily News",
-      "source": "Grit Daily News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JZ0dKcnJMMVlaR3ZyUGNQV29kUG02c2ktbFFLTGFJZ1ZsRVVWMlFtNnF0SS12WlhmTWR6QTZVY2FiX1YxR1gxemhQOGg0dk1qbXRCaG93ZmQ5WjBGX2l1NWxIZzFEZDVtZ2phY3hPejJ2dw?oc=5",
+      "title": "Governor Ivey Announces $1.8 Billion Niron Magnetics Investment -",
+      "summary": "Governor Ivey Announces $1.8 Billion Niron Magnetics Investment - Alabama Governor's Office (.gov)",
+      "source": "Alabama Governor's Office (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjVNR2k1dm5oU0ZOWEI3ZGNBMy1GWUZ3aFNmVTdlTThWb0o4WE84cTF0Z2dqODUtcHBqUXFrZ2VtSjBQVGJTMDcyUi1ING9CaHhkNTYwWlZfSUI3SnBZbWs5WnNvVHBIcDJPbFV6UXFPTXBVMGxULVYtaDFVcUljeW1EUV93bWlaMlBjUGRxOG1TV0tiZEY1WWVsUm40eXE1WEF5SjYtMUpwMW0yZXc?oc=5",
       "category": "工业 AI",
-      "date": "2026-11-20T17:55:42+00:00",
+      "date": "2026-11-20T18:29:32+00:00",
       "image": "assets/ai.svg",
       "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
       "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
@@ -121,23 +155,6 @@
       }
     },
     {
-      "title": "Zacks Industry Outlook Highlights KLA and SiTime",
-      "summary": "Zacks Industry Outlook Highlights KLA and SiTime TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzJ6czBrM2pnYWt4RFVoUUFFMUtDYnFmUUVycWtITzZjWHphZ3FRWXZRS090Zm5UZVRHWjc4LXhIQkhjeDJjMnJIak9NTU1iWk9TUkQ2YWNxcC1oYkFoV2ZTUzRycnVLNjM2VWlJTEd2ZTRiR19pX2JXdUV5TWFReDFLSWx2UEJnRWhIUzlfSGNaQ2pMSkFFbUwtOFQ5Sk5wRXlZT2pTRQ?oc=5",
-      "category": "机器人",
-      "date": "2026-11-20T13:16:00+00:00",
-      "image": "assets/robot.svg",
-      "opportunity": "可探索软件集成、视觉检测或维护服务，而非自研机器人。",
-      "image_alt": "新闻来源图片或机器人类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
       "title": "Energy efficiency becomes the chemical industry’s new edge",
       "summary": "Energy efficiency becomes the chemical industry’s new edge Indiatimes",
       "source": "Indiatimes",
@@ -158,9 +175,9 @@
       "title": "Industrial AI Moves Toward Scaled Deployment: AVEVA Connects Engineering and Operations with a Strong Data Foundation",
       "summary": "Industrial AI Moves Toward Scaled Deployment: AVEVA Connects Engineering and Operations with a Strong Data Foundation The Malaysian Reserve",
       "source": "The Malaysian Reserve",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLXBrb3QzbmNDSHU4RXBLeVI0bE4xYTFISzhhNjZNYnB5eEpONEhLM19YNFRpWVk4LTB2Szk1QUJRMWFGTXdKNzlvZWgybUtVdGlpbHJScm5zQy1wNzlGclRXSl9yV09ZTFVYQU1vclB5VlN3VzhJSHV0SmVjSzhzUmNQTGktS2xaajQtdEt3Sm40X1duNE0xbGkzanVZRi1ZblBISDhPZHJEb1VKR1pKS0tleVZ6NmdCc3pwX1hEeXNYend0N3EtNF9CTU9pbGRZcFpNaXZ5MkNGaFU4TWpuNEdwNlhQOHpqZUpNeGY5em14YTdIQU5Z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYXZXdXRUaE5TT25PeDBzNVJjQURlX0JRLWc0b1pLMHB3eVVjTnlMaFM2cHEwcXJ3aXJaUHZmQXVKMWVvYWdOVWlMLVhmS1QtZ196aFlKVEpiSWZBMUZnQjNEUDBoZUd3SC1nV19SS0M2Ul9raDJoTE9HSHFzamV1YmxycjFueHNNa05RUWdTdkVONF9oaGlhNEdrVklSWXM0UEE2ZUdSRkNIc1V4SC1OaU45WTVMX3dMSHp2Qmwwc0JuT0FMZExVTjRaYjVxRXRBZVVVS3VWMlVzU0RYbm1Uek1xNFpxV3k4ME1UN2U5TTNHUQ?oc=5",
       "category": "数据与软件",
-      "date": "2026-11-20T05:07:55+00:00",
+      "date": "2026-11-20T05:07:54+00:00",
       "image": "assets/data.svg",
       "opportunity": "可验证工厂数据连接、自动报表和系统间集成需求。",
       "image_alt": "新闻来源图片或数据与软件类别备用插画（非新闻现场照片）",
@@ -172,32 +189,15 @@
       }
     },
     {
-      "title": "Accel’s Prashanth Prakash Outlines Three Investor Priorities To Drive India’s IP-led Growth",
-      "summary": "Accel’s Prashanth Prakash Outlines Three Investor Priorities To Drive India’s IP-led Growth BW Disrupt",
-      "source": "BW Disrupt",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTBQTmtCdXFzeG1GZ090MkxCN3l6LXJEUV9TaEtaTjY0SGhqdGppbkQzeHVvbHNIV2t4NUlRb3lwTXVuT1Zlc0VSSldBZHZNdTlUbWUwZ0FpYXB2cFppSXdFUUpZR0FxUDUxRTBoTUNVN25BNWZoLUkxNFhhZEx3MTdjRkZZS2NrbGdjVWVPd0xndVlPLVV4Sy1CVmhuRUhOZFlnb3c3NkU5NDJQVzNYMlhkU2dSb2VxU25ISEZUWG5idWtaMmt3aVMwb08?oc=5",
-      "category": "创业信号",
-      "date": "2026-11-19T19:42:28+00:00",
-      "image": "assets/startup.svg",
-      "opportunity": "关注其首批客户、收费模式及部署成本，而不只看融资新闻。",
-      "image_alt": "新闻来源图片或创业信号类别备用插画（非新闻现场照片）",
-      "analysis": {
-        "pain": "根据原文核实客户实际痛点，需进一步访谈",
-        "entry": "从可量化的单场景试点切入，验证需求",
-        "money": "可探索项目实施费与持续服务费，尚未验证",
-        "difficulty": "待调研现场数据接入、业务责任及部署成本"
-      }
-    },
-    {
-      "title": "Clamp-On Pressure Sensors Market Forecast to 2035, Driven by Iiot Retrofit Demand",
-      "summary": "Clamp-On Pressure Sensors Market Forecast to 2035, Driven by Iiot Retrofit Demand IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkJISWlSNWZQR2VmbDB1b0RRWTFKbVRSLXJZc0ZkM01tU1JvWEdkRlFFY3c5dm9xOXdsejdNbWNpNUozU0V5d01vckdPaDFHbGlQbUNkQjlRd0NfVlRVTmtrTVRROEVRSzVCWWc5QTBGQVQ0YlEySVJlNmpGdTBYal9EWkhSX1NFc3JUZVBHcVprNjJKc1EzSnNSVzFEX3NlQzd4dWhCOUZfRTR2ZS1Z?oc=5",
-      "category": "能源与效率",
-      "date": "2026-11-19T16:36:05+00:00",
-      "image": "assets/energy.svg",
-      "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
-      "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
+      "title": "Emerson to Link AspenTech Inmation with Databricks for Industrial AI",
+      "summary": "Emerson to Link AspenTech Inmation with Databricks for Industrial AI Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmQ1eWJtUzN0VzNTVHdYMUI5RVhKUE10bXJ3WmFxNTZkTklOUTdFb2xTWlVXZGNCeWJ0VW1BcFlzOHpmYWhubzNXVGw3ektGcUtjdEhUbFg1ancxVFRfVnRnR2xESmVkTnhFcTB1TG04eFhwTS1BZFNJZFRGNXFZSlJMdFd4MUV1NXRCZEctMURtNkpD?oc=5",
+      "category": "工业 AI",
+      "date": "2026-11-19T19:51:06+00:00",
+      "image": "assets/ai.svg",
+      "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
+      "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
       "analysis": {
         "pain": "根据原文核实客户实际痛点，需进一步访谈",
         "entry": "从可量化的单场景试点切入，验证需求",
@@ -223,12 +223,12 @@
       }
     },
     {
-      "title": "AI Workforce Transformation: 3 Ways Industrial Leaders Win",
-      "summary": "AI Workforce Transformation: 3 Ways Industrial Leaders Win World Economic Forum",
-      "source": "World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjFzaWZRYXpzbVk2c05ISTYtRXBIRDJBNlI1U1RTQ0sydlZ3b2hLTnZ0VTM1REtna3hDT3M5UUphWEpvS3ByWk9uN1ZsZWg2cWhfSTdxM0ZGOERhQWRIZVBWaHpxOUN1VnoyLXE5QzRhVnNiSlhuQmJtNElac1NMT1l3XzZTbXJ0VXZRR2VaRjR1NFZjVWNRaXY0OU50ajU1Vm9fdQ?oc=5",
+      "title": "Real-Life AI Part V: 6 Deployment Mistakes That Stall Factory AI Projects",
+      "summary": "Real-Life AI Part V: 6 Deployment Mistakes That Stall Factory AI Projects Manufacturing.net",
+      "source": "Manufacturing.net",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUW5YN2h3WGhMeUdmcEt4MmRiODJneG9aMlpjZ0ljSF9HQzNCVTVYRmZabnNkUG5sNk0xZHk0VFNTYlNtQjN2WGo3clRTZnpYU0lFUnE0RnQ3aV9HQl9lQVVBM1o5Uk91aUVVaC1tWGpGeFhDNjRDS3JDaktINXU5SmVvWk1EV013T1lRZFQ3NXRsUnFJOUs5RHhKNGV1VlhUMVlOZzBHR0tJUTFpemNkTmFvdkppNUZ6LTNXS1l0UkpGMGhZVFg1RVVUaXdLRFNuY3E3ZVdQUGRtQQ?oc=5",
       "category": "工业 AI",
-      "date": "2026-11-19T14:15:16+00:00",
+      "date": "2026-11-19T14:44:13+00:00",
       "image": "assets/ai.svg",
       "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
       "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
@@ -240,12 +240,12 @@
       }
     },
     {
-      "title": "China unveils 34 new flagship smart factories, highlighting AI-driven transformation",
-      "summary": "China unveils 34 new flagship smart factories, highlighting AI-driven transformation Global Times",
-      "source": "Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXZ1dFUVh6S1ZHdFBIaER1OEVuNW5UUEJBZ01VV1BYU3g1U1Q2anZrNzd5ZTV2WmhRb1ZtaHJ3cEl4Rk5KX3JhbmNTMnZvUlFZOTRJMkFVWjZ4dVlLRXN3OG1n?oc=5",
+      "title": "AI Workforce Transformation: 3 Ways Industrial Leaders Win",
+      "summary": "AI Workforce Transformation: 3 Ways Industrial Leaders Win World Economic Forum",
+      "source": "World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjFzaWZRYXpzbVk2c05ISTYtRXBIRDJBNlI1U1RTQ0sydlZ3b2hLTnZ0VTM1REtna3hDT3M5UUphWEpvS3ByWk9uN1ZsZWg2cWhfSTdxM0ZGOERhQWRIZVBWaHpxOUN1VnoyLXE5QzRhVnNiSlhuQmJtNElac1NMT1l3XzZTbXJ0VXZRR2VaRjR1NFZjVWNRaXY0OU50ajU1Vm9fdQ?oc=5",
       "category": "工业 AI",
-      "date": "2026-11-19T09:46:00+00:00",
+      "date": "2026-11-19T14:15:16+00:00",
       "image": "assets/ai.svg",
       "opportunity": "可从有明确 ROI 的单点 AI 工作流试点切入。",
       "image_alt": "新闻来源图片或工业 AI类别备用插画（非新闻现场照片）",
@@ -325,12 +325,12 @@
       }
     },
     {
-      "title": "KROHNE launches vortex meter for industrial energy use",
-      "summary": "KROHNE launches vortex meter for industrial energy use ChannelLife UK",
-      "source": "ChannelLife UK",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWE45MV80VG5sWXlYQ0Z2MnRsdlp6ZnNteTZ3Vjk2MlBKQ0pKandFWUp2YkFpQjVXOHFwT3h0Vmd6QkFRNWQtTlgyM3lBRFhaam5hSHhUYWtfQnQxejdDVV9CNld1bmp2dzdMX2U0N1B1T29nUkZqXzk5bW41blBqbG5TWmdZTUQ4YkE2NWtYaw?oc=5",
+      "title": "Energy Department Recognizes Clarios Meadowbrook Lithium Ion for 50001 Ready Achievement",
+      "summary": "Energy Department Recognizes Clarios Meadowbrook Lithium Ion for 50001 Ready Achievement Department of Energy (.gov)",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGpaajNOWTZ1a2xWV2Y1M2JWOUI3U2xTYmdpclp4eHFEa1dsYWh4bVpDQmRRSWozbjluU2VXUFJiLW5rN1ZtTU9xVVlfTXFraFdfNm9TRUhiMXRob0gyQXktZnhXM0RDVmpOQ3ZySEhFUG9WNXBjUkZuMHk0Q0RUZE1WUUN0MDF6Yk1LNlh1aHRQLWh0RF9JYWVrRTV3STA2U3M5ZHF1RWVid0ZyUFI5a1RYRQ?oc=5",
       "category": "能源与效率",
-      "date": "2026-11-18T16:45:00+00:00",
+      "date": "2026-11-18T16:18:37+00:00",
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
@@ -393,12 +393,12 @@
       }
     },
     {
-      "title": "From efficiency to advantage: Scaling up industrial energy efficiency in Canada",
-      "summary": "From efficiency to advantage: Scaling up industrial energy efficiency in Canada Canada.ca",
-      "source": "Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVWpqRFJOYzNXVkFVY1NpZlBFVDkyN0JNUTA3UWFHaHpzREQ5Q1ZSTl82SlVSV205dDJXanNNZWNuTDAtS2NtdDRBT3RMRkFJWUJtRmZzMWtDa09wRUFHOXcwcGFlVHZyMzlQd1dHa2tLanFVM3JzSlBpS09mbmZCMTBlSHhuaDljZDFiT2M5RV9GYUYwS3lYZnJ6MS1nOXVwZU5Ja19lS2tnbGtVRFlmdzk1YlhwR29RZUVNUlp4WGUwMmpoUkRwTTV6eGdjN0JMMDcwZXpKNTNzNUxSclZURURfM2psYm9nQlBQVXVuaHdfdzVyR1FzUkxLSHNWOTIwdnhvY1hB?oc=5",
+      "title": "Boiler Control Market to Reach USD 6.3 Bn by 2035, Registering CAGR 6.2%",
+      "summary": "Boiler Control Market to Reach USD 6.3 Bn by 2035, Registering CAGR 6.2% Market.us",
+      "source": "Market.us",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqcUowVmVlTWROYVZURXlHREZQT0l1cE53YXhRZGVzRERfOGxlQkhZNzRSNWF1Q0tnNzdFd0NodFpTemdZTlhFazNweWxVX2ZqRG1YTUlCdmdhRHVwOE90NXBvalg?oc=5",
       "category": "能源与效率",
-      "date": "2026-11-18T08:00:00+00:00",
+      "date": "2026-11-18T12:35:06+00:00",
       "image": "assets/energy.svg",
       "opportunity": "可从能耗可视化与异常分析切入，验证节能收益。",
       "image_alt": "新闻来源图片或能源与效率类别备用插画（非新闻现场照片）",
